@@ -15,11 +15,13 @@ ENV/
 
 # Results and data
 results/
+batch_results/
 *.fasta
 *.fa
 *.faa
 *.gff
 *.log
+*.csv
 
 # IDE
 .vscode/
