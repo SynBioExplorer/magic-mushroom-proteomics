@@ -387,18 +387,18 @@ BGC_GENES = {
         'color': 'red'
     },
     'PsiK': {
-        'name': 'Kinase',
-        'function': 'Phosphorylates intermediate',
+        'name': '4-Hydroxytryptamine kinase',
+        'function': 'Phosphorylates 4-hydroxytryptamine',
         'color': 'green'
     },
     'PsiM': {
-        'name': 'Methyltransferase',
-        'function': 'Methylates tryptamine',
+        'name': 'Psilocybin methyltransferase',
+        'function': 'N-methylates norbaeocystin to baeocystin and psilocybin',
         'color': 'gold'
     },
     'PsiH': {
-        'name': 'P450 monooxygenase',
-        'function': 'Hydroxylates at C-4 position (critical for activity)',
+        'name': 'Tryptamine 4-monooxygenase',
+        'function': 'Hydroxylates tryptamine at C-4 position',
         'color': 'purple'
     }
 }
