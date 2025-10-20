@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_subyungensis_ISOTYPE_NY-1197500.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1171.0,
+      "nt_len": 927,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_3792_length_5813_cov_17.705593"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1195.0,
+      "nt_len": 1059,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_3792_length_5813_cov_17.705593"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "CHECK_ORF",
+      "score": 977.0,
+      "nt_len": 927,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_2943_length_7052_cov_18.589892"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1999.0,
+      "nt_len": 1491,
+      "blocks": 11,
+      "strand": "-",
+      "seqid": "NODE_3792_length_5813_cov_17.705593"
+    }
+  ]
+}

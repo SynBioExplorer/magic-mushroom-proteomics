@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_pelliculosa_WTU-F-012331.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1502.0,
+      "nt_len": 1053,
+      "blocks": 1,
+      "strand": "-",
+      "seqid": "NODE_11354_length_1167_cov_33.995192"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 667.0,
+      "nt_len": 594,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_13104_length_1052_cov_23.548108"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 593.0,
+      "nt_len": 447,
+      "blocks": 5,
+      "strand": "+",
+      "seqid": "NODE_7502_length_1674_cov_41.872010"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1683.0,
+      "nt_len": 1386,
+      "blocks": 9,
+      "strand": "+",
+      "seqid": "NODE_3827_length_3178_cov_38.335300"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "species": "Psilocybe_argentina_SFSU-F-029894.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "NO_HIT"
+    }
+  ]
+}
