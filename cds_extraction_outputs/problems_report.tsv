@@ -1,0 +1,96 @@
+species	enzyme	status	details
+Psilocybe_argentina_SFSU-F-029894.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_argentina_SFSU-F-029894.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_argentina_SFSU-F-029894.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_argentina_SFSU-F-029894.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_arcana_ISOTYPE_SFSU-F-000737.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_cubensis_IBUG-4367.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_columbiana_ISOTYPE_NY-761607.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_columbiana_ISOTYPE_NY-761607.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_chionophila_OSC-113991.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_chionophila_OSC-113991.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_chionophila_OSC-113991.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_chionophila_OSC-113991.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_acutissima_GAM00011063.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_apelliculosa_UBC-F17545.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_apelliculosa_UBC-F17545.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_apelliculosa_UBC-F17545.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_apelliculosa_UBC-F17545.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_fuliginosa_NY-1901148.scaffolds	ALL	ERROR	"Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiM/PsiM_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_fuliginosa_NY-1901148.scaffolds.fasta
+STDERR:
+"
+Psilocybe_fagicola_var_mesocystidiata_NY-761608.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_clavata_ISOTYPE_NY-761604.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_clavata_ISOTYPE_NY-761604.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_clavata_ISOTYPE_NY-761604.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_clavata_ISOTYPE_NY-761604.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_hoogshageni_SFSU-F-029980.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_guilartensis_PARATYPE_CFMR-PR-5680.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds	ALL	ERROR	"Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds.fasta
+STDERR:
+"
+Psilocybe_laticystis_UBC-F16759.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_laticystis_UBC-F16759.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_laticystis_UBC-F16759.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_laticystis_UBC-F16759.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_lazoi_ISOTYPE_NY-761614.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_lazoi_ISOTYPE_NY-761614.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_lazoi_ISOTYPE_NY-761614.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_lazoi_ISOTYPE_NY-761614.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_montana_OSC-113978.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_montana_OSC-113978.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_montana_OSC-113978.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_montana_OSC-113978.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_polytrichophila_NY-1901129.scaffolds	ALL	ERROR	"Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_polytrichophila_NY-1901129.scaffolds.fasta
+STDERR:
+"
+Psilocybe_magica_OSC-111954.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_magica_OSC-111954.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_magica_OSC-111954.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_magica_OSC-111954.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_ovoideocystidiata_ISOTYPE_XAL-51B.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_phyllogena_OSC-114015.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_phyllogena_OSC-114015.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_phyllogena_OSC-114015.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_phyllogena_OSC-114015.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_pleurocystidiosa_ISOTYPE_NY-761619.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_liniformans_var_americana_NY-1797145.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_rhomboidospora_CMMF003424.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_rhomboidospora_CMMF003424.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_rhomboidospora_CMMF003424.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_rhomboidospora_CMMF003424.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_sabulosa_UBC-F13505.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_sabulosa_UBC-F13505.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_sabulosa_UBC-F13505.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_sabulosa_UBC-F13505.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_strictipes_WTU-F-011411.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_strictipes_WTU-F-011411.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_strictipes_WTU-F-011411.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_strictipes_WTU-F-011411.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_subhoogshagenii_NY-915004.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_subfimetaria_SFSU-F-029945.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_muliercula_GAM00011071.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_subviscida_VPI-F-0003697.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_subviscida_VPI-F-0003697.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_subviscida_VPI-F-0003697.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_subviscida_VPI-F-0003697.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_yungensis_SFSU-29944.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_yungensis_SFSU-29944.scaffolds	PsiH	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_xalapensis_ISOTYPE_NY-761630.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_tuberosa_WTU-F-011378.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_tuberosa_WTU-F-011378.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_tuberosa_WTU-F-011378.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_tuberosa_WTU-F-011378.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_subyungensis_ISOTYPE_NY-1197500.scaffolds	PsiM	CHECK_ORF	Status: CHECK_ORF
+Psilocybe_washingtonensis_WTU-F-055019.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_washingtonensis_WTU-F-055019.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_washingtonensis_WTU-F-055019.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_washingtonensis_WTU-F-055019.scaffolds	PsiH	NO_HIT	Status: NO_HIT
+Psilocybe_subcoprophila_UBC-F977.scaffolds	PsiD	NO_HIT	Status: NO_HIT
+Psilocybe_subcoprophila_UBC-F977.scaffolds	PsiK	NO_HIT	Status: NO_HIT
+Psilocybe_subcoprophila_UBC-F977.scaffolds	PsiM	NO_HIT	Status: NO_HIT
+Psilocybe_subcoprophila_UBC-F977.scaffolds	PsiH	NO_HIT	Status: NO_HIT

@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_fimetaria_UBC-F30923.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1635.0,
+      "nt_len": 1203,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_1220_length_7478_cov_37.893226"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1272.0,
+      "nt_len": 1074,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_6775_length_1772_cov_29.221884"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1016.0,
+      "nt_len": 885,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_2088_length_5177_cov_41.250495"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1832.0,
+      "nt_len": 1512,
+      "blocks": 11,
+      "strand": "-",
+      "seqid": "NODE_3534_length_3374_cov_32.639975"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_xalapensis_ISOTYPE_NY-761630.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1674.0,
+      "nt_len": 1287,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_199_length_48113_cov_23.530050"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1188.0,
+      "nt_len": 1062,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_199_length_48113_cov_23.530050"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "CHECK_ORF",
+      "score": 954.0,
+      "nt_len": 927,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_377_length_33784_cov_23.139644"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 2001.0,
+      "nt_len": 1467,
+      "blocks": 11,
+      "strand": "+",
+      "seqid": "NODE_199_length_48113_cov_23.530050"
+    }
+  ]
+}

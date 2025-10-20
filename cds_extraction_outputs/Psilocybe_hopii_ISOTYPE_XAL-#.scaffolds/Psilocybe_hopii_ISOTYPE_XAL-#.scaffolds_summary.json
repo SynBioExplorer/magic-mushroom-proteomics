@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_hopii_ISOTYPE_XAL-#.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1348.0,
+      "nt_len": 858,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_13744_length_863_cov_51.052989"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1109.0,
+      "nt_len": 804,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_14134_length_847_cov_31.300000"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 768.0,
+      "nt_len": 609,
+      "blocks": 7,
+      "strand": "+",
+      "seqid": "NODE_10864_length_1013_cov_33.370203"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1228.0,
+      "nt_len": 834,
+      "blocks": 6,
+      "strand": "+",
+      "seqid": "NODE_6262_length_1547_cov_53.005634"
+    }
+  ]
+}

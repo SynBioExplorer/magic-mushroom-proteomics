@@ -1,0 +1,21 @@
+{
+  "species": "Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "NO_HIT"
+    }
+  ]
+}

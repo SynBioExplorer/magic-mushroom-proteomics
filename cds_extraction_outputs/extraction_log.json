@@ -1,0 +1,2441 @@
+{
+  "timestamp": "2025-10-20T14:59:40.247719",
+  "elapsed": "0:05:27.265496",
+  "total_species": 71,
+  "parallel_workers": 12,
+  "summaries": [
+    {
+      "species": "Psilocybe_azurescens_WTU-F19095-HOLOTYPE.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1953.0,
+          "nt_len": 1314,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_2242_length_8460_cov_2.280811"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1526.0,
+          "nt_len": 1083,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_5464_length_3545_cov_2.238151"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1157.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_5673_length_3402_cov_1.979237"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2192.0,
+          "nt_len": 1521,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_6448_length_2920_cov_2.195847"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_argentipes_NY-1595850.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 867.0,
+          "nt_len": 588,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_25067_length_594_cov_39.892934"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1195.0,
+          "nt_len": 1008,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_1941_length_5466_cov_39.277205"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 861.0,
+          "nt_len": 711,
+          "blocks": 8,
+          "strand": "+",
+          "seqid": "NODE_10926_length_1228_cov_40.339691"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1966.0,
+          "nt_len": 1494,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_1941_length_5466_cov_39.277205"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_argentina_SFSU-F-029894.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_angustipleurocystidiata_ISOTYPE_NY-761597.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1649.0,
+          "nt_len": 1293,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3997_length_2069_cov_38.736354"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 576.0,
+          "nt_len": 510,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_24836_length_539_cov_36.558252"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1046.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_1784_length_5409_cov_33.028966"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1003.0,
+          "nt_len": 720,
+          "blocks": 5,
+          "strand": "+",
+          "seqid": "NODE_10071_length_957_cov_47.633735"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_bohemica_SFSU-F-029930.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1849.0,
+          "nt_len": 1314,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_3612_length_5039_cov_19.658591"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 903.0,
+          "nt_len": 696,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_17538_length_756_cov_25.225755"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 490.0,
+          "nt_len": 384,
+          "blocks": 4,
+          "strand": "-",
+          "seqid": "NODE_23193_length_595_cov_37.698718"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2007.0,
+          "nt_len": 1518,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_3298_length_5554_cov_18.223512"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_arcana_ISOTYPE_SFSU-F-000737.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 855.0,
+          "nt_len": 672,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_8509_length_1747_cov_32.320370"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 905.0,
+          "nt_len": 696,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_17991_length_756_cov_23.551669"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1978.0,
+          "nt_len": 1509,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_2568_length_6941_cov_20.280158"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_baeocystis_WTU-F-011245.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 981.0,
+          "nt_len": 618,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_6810_length_3081_cov_44.967840"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1521.0,
+          "nt_len": 1083,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_8905_length_2116_cov_57.656611"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 726.0,
+          "nt_len": 585,
+          "blocks": 7,
+          "strand": "-",
+          "seqid": "NODE_6810_length_3081_cov_44.967840"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2041.0,
+          "nt_len": 1518,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_4346_length_5040_cov_41.400570"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_azurescens_Lg-bg-ut.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1953.0,
+          "nt_len": 1314,
+          "blocks": 3,
+          "strand": "+",
+          "seqid": "NODE_133_length_49061_cov_20.530837"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1508.0,
+          "nt_len": 1083,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_133_length_49061_cov_20.530837"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1163.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_248_length_40097_cov_19.729322"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2212.0,
+          "nt_len": 1521,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_248_length_40097_cov_19.729322"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_aztecorum_SFSU-F-029933.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1843.0,
+          "nt_len": 1314,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_2057_length_6967_cov_29.017982"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1335.0,
+          "nt_len": 1014,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_2971_length_5185_cov_30.848557"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 533.0,
+          "nt_len": 402,
+          "blocks": 5,
+          "strand": "+",
+          "seqid": "NODE_5320_length_3161_cov_33.981872"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2007.0,
+          "nt_len": 1524,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_34_length_53091_cov_35.587191"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_caerulescens_NY-1920304.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1657.0,
+          "nt_len": 1296,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_153_length_34394_cov_52.514431"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1217.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_153_length_34394_cov_52.514431"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 941.0,
+          "nt_len": 789,
+          "blocks": 9,
+          "strand": "+",
+          "seqid": "NODE_15_length_107828_cov_53.636651"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1625.0,
+          "nt_len": 1236,
+          "blocks": 8,
+          "strand": "+",
+          "seqid": "NODE_5082_length_1783_cov_28.858092"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_aztecorum_var_bonetii_NY-1595856.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1822.0,
+          "nt_len": 1314,
+          "blocks": 4,
+          "strand": "-",
+          "seqid": "NODE_1345_length_10699_cov_25.304011"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1397.0,
+          "nt_len": 1077,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_687_length_15841_cov_25.551228"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1058.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_687_length_15841_cov_25.551228"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2145.0,
+          "nt_len": 1521,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_687_length_15841_cov_25.551228"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_cubensis_IBUG-4367.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 2249.0,
+          "nt_len": 1317,
+          "blocks": 4,
+          "strand": "+",
+          "seqid": "NODE_2611_length_3556_cov_5.994459"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1783.0,
+          "nt_len": 1047,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_5674_length_1810_cov_5.479834"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 789.0,
+          "nt_len": 546,
+          "blocks": 6,
+          "strand": "+",
+          "seqid": "NODE_11777_length_959_cov_5.868990"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1463.0,
+          "nt_len": 909,
+          "blocks": 6,
+          "strand": "+",
+          "seqid": "NODE_6143_length_1699_cov_8.382316"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_columbiana_ISOTYPE_NY-761607.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 768.0,
+          "nt_len": 507,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_30763_length_511_cov_43.424479"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 982.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_3404_length_3790_cov_28.400764"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1753.0,
+          "nt_len": 1503,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_2698_length_4510_cov_25.445357"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_caerulipes_PUL00030154.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1735.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_13_length_46144_cov_37.699220"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1324.0,
+          "nt_len": 1074,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_13_length_46144_cov_37.699220"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1041.0,
+          "nt_len": 924,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_13_length_46144_cov_37.699220"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2005.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_13_length_46144_cov_37.699220"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_cyanescens_WTU-F-011306.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1953.0,
+          "nt_len": 1314,
+          "blocks": 3,
+          "strand": "+",
+          "seqid": "NODE_1816_length_8631_cov_2.142756"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1536.0,
+          "nt_len": 1083,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_870_length_14818_cov_2.512967"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1166.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_2853_length_5385_cov_2.098897"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2210.0,
+          "nt_len": 1521,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_870_length_14818_cov_2.512967"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_chionophila_OSC-113991.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_callosa_NY-1595861.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1694.0,
+          "nt_len": 1290,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_33_length_56766_cov_47.918802"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1233.0,
+          "nt_len": 1077,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_33_length_56766_cov_47.918802"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1037.0,
+          "nt_len": 885,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_33_length_56766_cov_47.918802"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1930.0,
+          "nt_len": 1509,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_33_length_56766_cov_47.918802"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_acutissima_GAM00011063.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1664.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_42_length_72616_cov_19.030528"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1202.0,
+          "nt_len": 1056,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_42_length_72616_cov_19.030528"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 982.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_42_length_72616_cov_19.030528"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1923.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_42_length_72616_cov_19.030528"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_apelliculosa_UBC-F17545.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_cyanofibrillosa_ISOTYPE_NY-761605.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 978.0,
+          "nt_len": 681,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_16248_length_686_cov_36.533095"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1259.0,
+          "nt_len": 1077,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_7506_length_1938_cov_24.517946"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1036.0,
+          "nt_len": 885,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_389_length_21465_cov_25.375480"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1814.0,
+          "nt_len": 1506,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_3496_length_5060_cov_24.671599"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_fuliginosa_NY-1901148.scaffolds",
+      "error": "Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiM/PsiM_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_fuliginosa_NY-1901148.scaffolds.fasta\nSTDERR:\n",
+      "traceback": "Traceback (most recent call last):\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/1118803683.py\", line 21, in process_one_species\n    return run_species(scaff_path, OUT_DIR, pbar=None, verbose=False)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 146, in run_species\n    gff_text = exonerate_protein2genome(ref_path, scaff_fa_path, bestn=BESTN, minpct=PERCENT)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 87, in exonerate_protein2genome\n    return run([\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 32, in run\n    raise RuntimeError(f\"Command failed: {' '.join(map(str,cmd))}\\nSTDERR:\\n{p.stderr}\")\nRuntimeError: Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiM/PsiM_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_fuliginosa_NY-1901148.scaffolds.fasta\nSTDERR:\n\n"
+    },
+    {
+      "species": "Psilocybe_fagicola_var_mesocystidiata_NY-761608.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1676.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_796_length_16685_cov_27.044389"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1000.0,
+          "nt_len": 930,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_4461_length_3773_cov_30.781953"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 964.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_2777_length_6744_cov_27.976424"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1977.0,
+          "nt_len": 1470,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_4461_length_3773_cov_30.781953"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_clavata_ISOTYPE_NY-761604.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_heimii_ISOTYPE_NY-761610.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1633.0,
+          "nt_len": 1209,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_13777_length_1354_cov_0.674817"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 584.0,
+          "nt_len": 489,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_35344_length_493_cov_1.292350"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 648.0,
+          "nt_len": 537,
+          "blocks": 6,
+          "strand": "-",
+          "seqid": "NODE_5683_length_2552_cov_1.075052"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1737.0,
+          "nt_len": 1314,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_3032_length_3744_cov_1.290296"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_fimetaria_UBC-F30923.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1635.0,
+          "nt_len": 1203,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_1220_length_7478_cov_37.893226"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1272.0,
+          "nt_len": 1074,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_6775_length_1772_cov_29.221884"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1016.0,
+          "nt_len": 885,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_2088_length_5177_cov_41.250495"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1832.0,
+          "nt_len": 1512,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_3534_length_3374_cov_32.639975"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_galindii_ISOTYPE_NY-761609.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 966.0,
+          "nt_len": 792,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_8132_length_1782_cov_27.181269"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1231.0,
+          "nt_len": 1053,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_7428_length_2076_cov_31.003079"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1003.0,
+          "nt_len": 888,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_6041_length_2842_cov_27.757643"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1733.0,
+          "nt_len": 1497,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_3859_length_4824_cov_25.748563"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_hoogshageni_SFSU-F-029980.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1664.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_34_length_60472_cov_45.113299"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1202.0,
+          "nt_len": 1056,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_34_length_60472_cov_45.113299"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 982.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_34_length_60472_cov_45.113299"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1916.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_34_length_60472_cov_45.113299"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_hopii_ISOTYPE_XAL-#.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1348.0,
+          "nt_len": 858,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_13744_length_863_cov_51.052989"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1109.0,
+          "nt_len": 804,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_14134_length_847_cov_31.300000"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 768.0,
+          "nt_len": 609,
+          "blocks": 7,
+          "strand": "+",
+          "seqid": "NODE_10864_length_1013_cov_33.370203"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1228.0,
+          "nt_len": 834,
+          "blocks": 6,
+          "strand": "+",
+          "seqid": "NODE_6262_length_1547_cov_53.005634"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_guilartensis_PARATYPE_CFMR-PR-5680.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1675.0,
+          "nt_len": 1290,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3320_length_5801_cov_27.478675"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 998.0,
+          "nt_len": 897,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_9970_length_1765_cov_49.197802"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 968.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_600_length_18184_cov_28.548485"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1815.0,
+          "nt_len": 1374,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_600_length_18184_cov_28.548485"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_congolensis_ISOTYPE_NY-1652567.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1656.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3889_length_6362_cov_57.884844"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 565.0,
+          "nt_len": 495,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_12943_length_2374_cov_59.420116"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 498.0,
+          "nt_len": 366,
+          "blocks": 4,
+          "strand": "+",
+          "seqid": "NODE_62628_length_632_cov_100.437624"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1205.0,
+          "nt_len": 912,
+          "blocks": 8,
+          "strand": "+",
+          "seqid": "NODE_12943_length_2374_cov_59.420116"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_mexicana_IBUG-13593.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1674.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_507_length_15341_cov_1.463126"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1230.0,
+          "nt_len": 1053,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_507_length_15341_cov_1.463126"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1039.0,
+          "nt_len": 930,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_2064_length_6325_cov_1.435169"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1985.0,
+          "nt_len": 1500,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_507_length_15341_cov_1.463126"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds",
+      "error": "Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds.fasta\nSTDERR:\n",
+      "traceback": "Traceback (most recent call last):\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/1118803683.py\", line 21, in process_one_species\n    return run_species(scaff_path, OUT_DIR, pbar=None, verbose=False)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 146, in run_species\n    gff_text = exonerate_protein2genome(ref_path, scaff_fa_path, bestn=BESTN, minpct=PERCENT)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 87, in exonerate_protein2genome\n    return run([\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 32, in run\n    raise RuntimeError(f\"Command failed: {' '.join(map(str,cmd))}\\nSTDERR:\\n{p.stderr}\")\nRuntimeError: Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds.fasta\nSTDERR:\n\n"
+    },
+    {
+      "species": "Psilocybe_laticystis_UBC-F16759.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_hoogshagenii_var_convexa_ISOTYPE_NY-761612.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1469.0,
+          "nt_len": 1059,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_15184_length_1223_cov_16.073905"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 858.0,
+          "nt_len": 675,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_35672_length_675_cov_28.983577"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 527.0,
+          "nt_len": 417,
+          "blocks": 5,
+          "strand": "-",
+          "seqid": "NODE_17916_length_1092_cov_15.021762"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 999.0,
+          "nt_len": 840,
+          "blocks": 7,
+          "strand": "+",
+          "seqid": "NODE_14191_length_1284_cov_16.042351"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_lazoi_ISOTYPE_NY-761614.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_montana_OSC-113978.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_polytrichophila_NY-1901129.scaffolds",
+      "error": "Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_polytrichophila_NY-1901129.scaffolds.fasta\nSTDERR:\n",
+      "traceback": "Traceback (most recent call last):\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/1118803683.py\", line 21, in process_one_species\n    return run_species(scaff_path, OUT_DIR, pbar=None, verbose=False)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 146, in run_species\n    gff_text = exonerate_protein2genome(ref_path, scaff_fa_path, bestn=BESTN, minpct=PERCENT)\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 87, in exonerate_protein2genome\n    return run([\n  File \"/var/folders/69/hx98gszj6ndb2nq99yf2fyh00000gp/T/ipykernel_61400/3565173893.py\", line 32, in run\n    raise RuntimeError(f\"Command failed: {' '.join(map(str,cmd))}\\nSTDERR:\\n{p.stderr}\")\nRuntimeError: Command failed: exonerate --model protein2genome --showtargetgff yes --showalignment no --showvulgar no --bestn 1 --percent 30 /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/05_codex/reference_panels/Proteins_PsiK/PsiK_refs.faa /Users/felix/Documents/20251015_Meeting_PsiloProteins_Felix/03_Sequences_Paper/Assembly_scaffolds/Psilocybe_polytrichophila_NY-1901129.scaffolds.fasta\nSTDERR:\n\n"
+    },
+    {
+      "species": "Psilocybe_magica_OSC-111954.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_ovoideocystidiata_ISOTYPE_XAL-51B.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1649.0,
+          "nt_len": 1053,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_2289_length_6539_cov_37.470680"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1491.0,
+          "nt_len": 1083,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_6921_length_2215_cov_41.695881"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 962.0,
+          "nt_len": 705,
+          "blocks": 8,
+          "strand": "-",
+          "seqid": "NODE_2289_length_6539_cov_37.470680"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_phyllogena_OSC-114015.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_samuiensis_WTU-F-055014.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1642.0,
+          "nt_len": 1278,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_16_length_86922_cov_4.792396"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1190.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_16_length_86922_cov_4.792396"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 901.0,
+          "nt_len": 750,
+          "blocks": 8,
+          "strand": "-",
+          "seqid": "NODE_16_length_86922_cov_4.792396"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1966.0,
+          "nt_len": 1482,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_16_length_86922_cov_4.792396"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_pelliculosa_WTU-F-012331.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1502.0,
+          "nt_len": 1053,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_11354_length_1167_cov_33.995192"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 667.0,
+          "nt_len": 594,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_13104_length_1052_cov_23.548108"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 593.0,
+          "nt_len": 447,
+          "blocks": 5,
+          "strand": "+",
+          "seqid": "NODE_7502_length_1674_cov_41.872010"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1683.0,
+          "nt_len": 1386,
+          "blocks": 9,
+          "strand": "+",
+          "seqid": "NODE_3827_length_3178_cov_38.335300"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_pleurocystidiosa_ISOTYPE_NY-761619.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1699.0,
+          "nt_len": 1293,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_546_length_21907_cov_23.763590"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1177.0,
+          "nt_len": 1062,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_2252_length_9477_cov_19.563209"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 962.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_493_length_23072_cov_21.588886"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1987.0,
+          "nt_len": 1470,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_546_length_21907_cov_23.763590"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_liniformans_var_americana_NY-1797145.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1689.0,
+          "nt_len": 1290,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_3065_length_6575_cov_26.983096"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 965.0,
+          "nt_len": 783,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_22326_length_974_cov_46.788666"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1908.0,
+          "nt_len": 1488,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_7149_length_2878_cov_45.828790"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_rhomboidospora_CMMF003424.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_sabulosa_UBC-F13505.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_stuntzii_WTU-F-011520.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1707.0,
+          "nt_len": 1290,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_5_length_338748_cov_6.417621"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1252.0,
+          "nt_len": 1077,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_5_length_338748_cov_6.417621"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1052.0,
+          "nt_len": 885,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_5_length_338748_cov_6.417621"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1907.0,
+          "nt_len": 1509,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_5_length_338748_cov_6.417621"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subcubensis_SFSU-29974.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 2275.0,
+          "nt_len": 1317,
+          "blocks": 3,
+          "strand": "-",
+          "seqid": "NODE_205_length_33154_cov_2.029023"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1849.0,
+          "nt_len": 1086,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_115_length_41788_cov_2.011498"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1332.0,
+          "nt_len": 927,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_205_length_33154_cov_2.029023"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2497.0,
+          "nt_len": 1521,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_115_length_41788_cov_2.011498"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_strictipes_WTU-F-011411.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_portoricensis_CFMR-PR-4572.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 911.0,
+          "nt_len": 648,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_10369_length_1865_cov_26.868815"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 913.0,
+          "nt_len": 777,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_27917_length_889_cov_28.481627"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 490.0,
+          "nt_len": 417,
+          "blocks": 5,
+          "strand": "+",
+          "seqid": "NODE_15416_length_1355_cov_23.381107"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 841.0,
+          "nt_len": 642,
+          "blocks": 5,
+          "strand": "+",
+          "seqid": "NODE_24731_length_967_cov_21.460714"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_silvatica_VPI-F-0003693.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1137.0,
+          "nt_len": 879,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_17658_length_959_cov_26.603365"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 919.0,
+          "nt_len": 720,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_22212_length_792_cov_17.661654"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1048.0,
+          "nt_len": 924,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_1714_length_7500_cov_15.580632"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1860.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_2703_length_5433_cov_16.626838"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_singeri_ISOTYPE_NY-761622.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1677.0,
+          "nt_len": 1290,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_638_length_20299_cov_17.664684"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1178.0,
+          "nt_len": 1062,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_638_length_20299_cov_17.664684"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 912.0,
+          "nt_len": 804,
+          "blocks": 9,
+          "strand": "-",
+          "seqid": "NODE_598_length_20854_cov_17.886477"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1988.0,
+          "nt_len": 1470,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_598_length_20854_cov_17.886477"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_semilanceata_SFSU-F-029972.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 761.0,
+          "nt_len": 552,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_59688_length_557_cov_25.186047"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1054.0,
+          "nt_len": 888,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_12264_length_1254_cov_36.339840"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1032.0,
+          "nt_len": 885,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_3124_length_3277_cov_23.963810"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1834.0,
+          "nt_len": 1509,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_1986_length_4715_cov_23.349172"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subhoogshagenii_NY-915004.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 851.0,
+          "nt_len": 609,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_1976_length_5883_cov_21.992877"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1223.0,
+          "nt_len": 1056,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3971_length_3393_cov_21.942131"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 990.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_3070_length_4221_cov_21.424524"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1050.0,
+          "nt_len": 888,
+          "blocks": 6,
+          "strand": "+",
+          "seqid": "NODE_7363_length_1798_cov_23.683423"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subfimetaria_SFSU-F-029945.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1435.0,
+          "nt_len": 1026,
+          "blocks": 1,
+          "strand": "-",
+          "seqid": "NODE_1639_length_5067_cov_50.251619"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1261.0,
+          "nt_len": 1077,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_2167_length_4045_cov_47.262379"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1869.0,
+          "nt_len": 1455,
+          "blocks": 9,
+          "strand": "+",
+          "seqid": "NODE_2167_length_4045_cov_47.262379"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_tampanensis_UBC-F10177.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1656.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_10_length_309838_cov_47.417218"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1231.0,
+          "nt_len": 1053,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_10_length_309838_cov_47.417218"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1044.0,
+          "nt_len": 930,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_10_length_309838_cov_47.417218"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1987.0,
+          "nt_len": 1500,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_10_length_309838_cov_47.417218"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_muliercula_GAM00011071.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1670.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_751_length_10647_cov_34.375856"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1257.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_751_length_10647_cov_34.375856"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1982.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_751_length_10647_cov_34.375856"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_weilii_ISOTYPE_WTU-F-063525.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1633.0,
+          "nt_len": 1296,
+          "blocks": 3,
+          "strand": "+",
+          "seqid": "NODE_459_length_27505_cov_37.684162"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1213.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_459_length_27505_cov_37.684162"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1019.0,
+          "nt_len": 924,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_1563_length_9550_cov_34.884007"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1925.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_459_length_27505_cov_37.684162"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subpsilocybioides_HOLOTYPE_CFMR-PR-5689.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subviscida_VPI-F-0003697.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_yungensis_SFSU-29944.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1041.0,
+          "nt_len": 843,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3078_length_3566_cov_0.870602"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1205.0,
+          "nt_len": 1062,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_3078_length_3566_cov_0.870602"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 690.0,
+          "nt_len": 666,
+          "blocks": 7,
+          "strand": "+",
+          "seqid": "NODE_2866_length_3703_cov_0.916410"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "CHECK_ORF",
+          "score": 1942.0,
+          "nt_len": 1491,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_1973_length_4444_cov_0.880936"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_quebecensis_NY-1901130.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1655.0,
+          "nt_len": 1203,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_25200_length_1915_cov_22.584452"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1322.0,
+          "nt_len": 1074,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_1625_length_8875_cov_23.773434"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 1043.0,
+          "nt_len": 924,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_1859_length_8195_cov_16.458850"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2015.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_1625_length_8875_cov_23.773434"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_zapotecorum_FFCL689.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1670.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_260_length_32037_cov_5.614471"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1257.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_260_length_32037_cov_5.614471"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 929.0,
+          "nt_len": 789,
+          "blocks": 9,
+          "strand": "+",
+          "seqid": "NODE_260_length_32037_cov_5.614471"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1986.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_260_length_32037_cov_5.614471"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_xalapensis_ISOTYPE_NY-761630.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1674.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_199_length_48113_cov_23.530050"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1188.0,
+          "nt_len": 1062,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_199_length_48113_cov_23.530050"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 954.0,
+          "nt_len": 927,
+          "blocks": 10,
+          "strand": "-",
+          "seqid": "NODE_377_length_33784_cov_23.139644"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 2001.0,
+          "nt_len": 1467,
+          "blocks": 11,
+          "strand": "+",
+          "seqid": "NODE_199_length_48113_cov_23.530050"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_zapotecorum_GAM00011076.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1670.0,
+          "nt_len": 1287,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_524_length_20000_cov_2.735269"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1261.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_524_length_20000_cov_2.735269"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 929.0,
+          "nt_len": 789,
+          "blocks": 9,
+          "strand": "-",
+          "seqid": "NODE_524_length_20000_cov_2.735269"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1987.0,
+          "nt_len": 1515,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_524_length_20000_cov_2.735269"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_caerulescens_var_mazatecorum_SFSU-F-029971.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 935.0,
+          "nt_len": 786,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_28741_length_2392_cov_31.717881"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 932.0,
+          "nt_len": 783,
+          "blocks": 1,
+          "strand": "+",
+          "seqid": "NODE_28100_length_2440_cov_49.766969"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 774.0,
+          "nt_len": 657,
+          "blocks": 8,
+          "strand": "-",
+          "seqid": "NODE_28582_length_2403_cov_32.568541"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1094.0,
+          "nt_len": 870,
+          "blocks": 6,
+          "strand": "+",
+          "seqid": "NODE_28100_length_2440_cov_49.766969"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_tuberosa_WTU-F-011378.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_wrightii_ISOTYPE_NY-761629.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1668.0,
+          "nt_len": 1296,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_3928_length_3465_cov_26.123128"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1219.0,
+          "nt_len": 1065,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_7135_length_2123_cov_12.960421"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "OK",
+          "score": 806.0,
+          "nt_len": 684,
+          "blocks": 8,
+          "strand": "+",
+          "seqid": "NODE_5999_length_2458_cov_16.990991"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 829.0,
+          "nt_len": 681,
+          "blocks": 5,
+          "strand": "-",
+          "seqid": "NODE_17939_length_985_cov_11.628205"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subyungensis_ISOTYPE_NY-1197500.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "OK",
+          "score": 1171.0,
+          "nt_len": 927,
+          "blocks": 2,
+          "strand": "+",
+          "seqid": "NODE_3792_length_5813_cov_17.705593"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "OK",
+          "score": 1195.0,
+          "nt_len": 1059,
+          "blocks": 2,
+          "strand": "-",
+          "seqid": "NODE_3792_length_5813_cov_17.705593"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "CHECK_ORF",
+          "score": 977.0,
+          "nt_len": 927,
+          "blocks": 10,
+          "strand": "+",
+          "seqid": "NODE_2943_length_7052_cov_18.589892"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "OK",
+          "score": 1999.0,
+          "nt_len": 1491,
+          "blocks": 11,
+          "strand": "-",
+          "seqid": "NODE_3792_length_5813_cov_17.705593"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_washingtonensis_WTU-F-055019.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    },
+    {
+      "species": "Psilocybe_subcoprophila_UBC-F977.scaffolds",
+      "results": [
+        {
+          "enzyme": "PsiD",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiK",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiM",
+          "status": "NO_HIT"
+        },
+        {
+          "enzyme": "PsiH",
+          "status": "NO_HIT"
+        }
+      ]
+    }
+  ]
+}

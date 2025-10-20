@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_caerulipes_PUL00030154.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1735.0,
+      "nt_len": 1287,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_13_length_46144_cov_37.699220"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1324.0,
+      "nt_len": 1074,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_13_length_46144_cov_37.699220"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1041.0,
+      "nt_len": 924,
+      "blocks": 11,
+      "strand": "+",
+      "seqid": "NODE_13_length_46144_cov_37.699220"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 2005.0,
+      "nt_len": 1515,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_13_length_46144_cov_37.699220"
+    }
+  ]
+}

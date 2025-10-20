@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_stuntzii_WTU-F-011520.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1707.0,
+      "nt_len": 1290,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_5_length_338748_cov_6.417621"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1252.0,
+      "nt_len": 1077,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_5_length_338748_cov_6.417621"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1052.0,
+      "nt_len": 885,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_5_length_338748_cov_6.417621"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1907.0,
+      "nt_len": 1509,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_5_length_338748_cov_6.417621"
+    }
+  ]
+}

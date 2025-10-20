@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_semilanceata_SFSU-F-029972.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 761.0,
+      "nt_len": 552,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_59688_length_557_cov_25.186047"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1054.0,
+      "nt_len": 888,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_12264_length_1254_cov_36.339840"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1032.0,
+      "nt_len": 885,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_3124_length_3277_cov_23.963810"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1834.0,
+      "nt_len": 1509,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_1986_length_4715_cov_23.349172"
+    }
+  ]
+}

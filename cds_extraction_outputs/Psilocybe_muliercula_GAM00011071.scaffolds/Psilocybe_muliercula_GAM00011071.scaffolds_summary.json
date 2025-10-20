@@ -1,0 +1,36 @@
+{
+  "species": "Psilocybe_muliercula_GAM00011071.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1670.0,
+      "nt_len": 1287,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_751_length_10647_cov_34.375856"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1257.0,
+      "nt_len": 1065,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_751_length_10647_cov_34.375856"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1982.0,
+      "nt_len": 1515,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_751_length_10647_cov_34.375856"
+    }
+  ]
+}

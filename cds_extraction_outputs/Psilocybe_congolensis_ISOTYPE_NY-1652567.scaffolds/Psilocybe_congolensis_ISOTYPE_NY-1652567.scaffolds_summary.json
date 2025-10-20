@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_congolensis_ISOTYPE_NY-1652567.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1656.0,
+      "nt_len": 1287,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_3889_length_6362_cov_57.884844"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 565.0,
+      "nt_len": 495,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_12943_length_2374_cov_59.420116"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 498.0,
+      "nt_len": 366,
+      "blocks": 4,
+      "strand": "+",
+      "seqid": "NODE_62628_length_632_cov_100.437624"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1205.0,
+      "nt_len": 912,
+      "blocks": 8,
+      "strand": "+",
+      "seqid": "NODE_12943_length_2374_cov_59.420116"
+    }
+  ]
+}

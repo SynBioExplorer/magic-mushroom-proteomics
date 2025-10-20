@@ -1,0 +1,21 @@
+{
+  "species": "Psilocybe_apelliculosa_UBC-F17545.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "NO_HIT"
+    }
+  ]
+}

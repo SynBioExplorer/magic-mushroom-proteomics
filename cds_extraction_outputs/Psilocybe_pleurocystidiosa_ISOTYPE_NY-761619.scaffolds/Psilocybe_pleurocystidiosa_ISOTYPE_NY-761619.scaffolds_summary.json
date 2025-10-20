@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_pleurocystidiosa_ISOTYPE_NY-761619.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1699.0,
+      "nt_len": 1293,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_546_length_21907_cov_23.763590"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1177.0,
+      "nt_len": 1062,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_2252_length_9477_cov_19.563209"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "CHECK_ORF",
+      "score": 962.0,
+      "nt_len": 924,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_493_length_23072_cov_21.588886"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1987.0,
+      "nt_len": 1470,
+      "blocks": 11,
+      "strand": "-",
+      "seqid": "NODE_546_length_21907_cov_23.763590"
+    }
+  ]
+}

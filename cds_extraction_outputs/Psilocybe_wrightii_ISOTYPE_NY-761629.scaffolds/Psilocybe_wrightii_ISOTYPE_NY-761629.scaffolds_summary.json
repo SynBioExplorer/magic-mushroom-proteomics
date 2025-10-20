@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_wrightii_ISOTYPE_NY-761629.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1668.0,
+      "nt_len": 1296,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_3928_length_3465_cov_26.123128"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1219.0,
+      "nt_len": 1065,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_7135_length_2123_cov_12.960421"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 806.0,
+      "nt_len": 684,
+      "blocks": 8,
+      "strand": "+",
+      "seqid": "NODE_5999_length_2458_cov_16.990991"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 829.0,
+      "nt_len": 681,
+      "blocks": 5,
+      "strand": "-",
+      "seqid": "NODE_17939_length_985_cov_11.628205"
+    }
+  ]
+}

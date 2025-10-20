@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_zapotecorum_GAM00011076.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1670.0,
+      "nt_len": 1287,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_524_length_20000_cov_2.735269"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1261.0,
+      "nt_len": 1065,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_524_length_20000_cov_2.735269"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 929.0,
+      "nt_len": 789,
+      "blocks": 9,
+      "strand": "-",
+      "seqid": "NODE_524_length_20000_cov_2.735269"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1987.0,
+      "nt_len": 1515,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_524_length_20000_cov_2.735269"
+    }
+  ]
+}
