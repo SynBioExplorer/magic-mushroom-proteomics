@@ -1,0 +1,36 @@
+{
+  "species": "Psilocybe_liniformans_var_americana_NY-1797145.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1689.0,
+      "nt_len": 1290,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_3065_length_6575_cov_26.983096"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 965.0,
+      "nt_len": 783,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_22326_length_974_cov_46.788666"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "NO_HIT"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1908.0,
+      "nt_len": 1488,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_7149_length_2878_cov_45.828790"
+    }
+  ]
+}

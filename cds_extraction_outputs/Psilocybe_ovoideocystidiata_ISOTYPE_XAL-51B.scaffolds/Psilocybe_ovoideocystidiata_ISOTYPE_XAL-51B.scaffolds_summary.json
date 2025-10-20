@@ -1,0 +1,36 @@
+{
+  "species": "Psilocybe_ovoideocystidiata_ISOTYPE_XAL-51B.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1649.0,
+      "nt_len": 1053,
+      "blocks": 1,
+      "strand": "-",
+      "seqid": "NODE_2289_length_6539_cov_37.470680"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1491.0,
+      "nt_len": 1083,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_6921_length_2215_cov_41.695881"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 962.0,
+      "nt_len": 705,
+      "blocks": 8,
+      "strand": "-",
+      "seqid": "NODE_2289_length_6539_cov_37.470680"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "NO_HIT"
+    }
+  ]
+}

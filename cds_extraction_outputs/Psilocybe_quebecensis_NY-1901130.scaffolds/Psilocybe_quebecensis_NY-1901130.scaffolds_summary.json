@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_quebecensis_NY-1901130.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1655.0,
+      "nt_len": 1203,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_25200_length_1915_cov_22.584452"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1322.0,
+      "nt_len": 1074,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_1625_length_8875_cov_23.773434"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1043.0,
+      "nt_len": 924,
+      "blocks": 11,
+      "strand": "-",
+      "seqid": "NODE_1859_length_8195_cov_16.458850"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 2015.0,
+      "nt_len": 1515,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_1625_length_8875_cov_23.773434"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_angustipleurocystidiata_ISOTYPE_NY-761597.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1649.0,
+      "nt_len": 1293,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_3997_length_2069_cov_38.736354"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 576.0,
+      "nt_len": 510,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_24836_length_539_cov_36.558252"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1046.0,
+      "nt_len": 927,
+      "blocks": 11,
+      "strand": "+",
+      "seqid": "NODE_1784_length_5409_cov_33.028966"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1003.0,
+      "nt_len": 720,
+      "blocks": 5,
+      "strand": "+",
+      "seqid": "NODE_10071_length_957_cov_47.633735"
+    }
+  ]
+}

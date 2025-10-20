@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_aztecorum_var_bonetii_NY-1595856.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1822.0,
+      "nt_len": 1314,
+      "blocks": 4,
+      "strand": "-",
+      "seqid": "NODE_1345_length_10699_cov_25.304011"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1397.0,
+      "nt_len": 1077,
+      "blocks": 3,
+      "strand": "-",
+      "seqid": "NODE_687_length_15841_cov_25.551228"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1058.0,
+      "nt_len": 927,
+      "blocks": 11,
+      "strand": "+",
+      "seqid": "NODE_687_length_15841_cov_25.551228"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 2145.0,
+      "nt_len": 1521,
+      "blocks": 11,
+      "strand": "-",
+      "seqid": "NODE_687_length_15841_cov_25.551228"
+    }
+  ]
+}

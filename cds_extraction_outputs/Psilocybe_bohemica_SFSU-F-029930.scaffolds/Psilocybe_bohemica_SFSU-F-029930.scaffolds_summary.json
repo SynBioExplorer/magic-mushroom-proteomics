@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_bohemica_SFSU-F-029930.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1849.0,
+      "nt_len": 1314,
+      "blocks": 3,
+      "strand": "-",
+      "seqid": "NODE_3612_length_5039_cov_19.658591"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 903.0,
+      "nt_len": 696,
+      "blocks": 1,
+      "strand": "+",
+      "seqid": "NODE_17538_length_756_cov_25.225755"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 490.0,
+      "nt_len": 384,
+      "blocks": 4,
+      "strand": "-",
+      "seqid": "NODE_23193_length_595_cov_37.698718"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 2007.0,
+      "nt_len": 1518,
+      "blocks": 11,
+      "strand": "+",
+      "seqid": "NODE_3298_length_5554_cov_18.223512"
+    }
+  ]
+}

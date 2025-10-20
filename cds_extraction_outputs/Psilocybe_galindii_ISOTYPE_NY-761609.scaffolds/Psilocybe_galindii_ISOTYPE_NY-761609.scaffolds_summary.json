@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_galindii_ISOTYPE_NY-761609.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 966.0,
+      "nt_len": 792,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_8132_length_1782_cov_27.181269"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1231.0,
+      "nt_len": 1053,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_7428_length_2076_cov_31.003079"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 1003.0,
+      "nt_len": 888,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_6041_length_2842_cov_27.757643"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1733.0,
+      "nt_len": 1497,
+      "blocks": 10,
+      "strand": "+",
+      "seqid": "NODE_3859_length_4824_cov_25.748563"
+    }
+  ]
+}

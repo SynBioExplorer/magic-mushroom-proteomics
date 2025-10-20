@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_yungensis_SFSU-29944.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1041.0,
+      "nt_len": 843,
+      "blocks": 2,
+      "strand": "+",
+      "seqid": "NODE_3078_length_3566_cov_0.870602"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 1205.0,
+      "nt_len": 1062,
+      "blocks": 2,
+      "strand": "-",
+      "seqid": "NODE_3078_length_3566_cov_0.870602"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "CHECK_ORF",
+      "score": 690.0,
+      "nt_len": 666,
+      "blocks": 7,
+      "strand": "+",
+      "seqid": "NODE_2866_length_3703_cov_0.916410"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "CHECK_ORF",
+      "score": 1942.0,
+      "nt_len": 1491,
+      "blocks": 10,
+      "strand": "-",
+      "seqid": "NODE_1973_length_4444_cov_0.880936"
+    }
+  ]
+}
