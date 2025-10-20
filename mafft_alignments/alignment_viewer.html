@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Psilocybe Alignment Explorer</title>
+</head>
+<body>
+
+
+<!-- Load require.js. Delete this if your page already loads require.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@jupyter-widgets/html-manager@^1.0.1/dist/embed-amd.js" crossorigin="anonymous"></script>
+
+<script type="application/vnd.jupyter.widget-state+json">
+{
+  "version_major": 2,
+  "version_minor": 0,
+  "state": {
+    "a1c82c9141b74ac9a9a3fd2d0c652b46": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "05b5302695774c3a82dd6b9247fd06a8": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_42b8e29fab65495b9d68eb8f6e1e9a33",
+          "IPY_MODEL_7985ecab8fc749b1ab611869082c490a"
+        ],
+        "layout": "IPY_MODEL_a1c82c9141b74ac9a9a3fd2d0c652b46"
+      }
+    },
+    "343c5de354274b53920d50b1748ee75e": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "6f908cf694bd4f2292b680c5f2daa1cd": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "42b8e29fab65495b9d68eb8f6e1e9a33": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_343c5de354274b53920d50b1748ee75e",
+        "style": "IPY_MODEL_6f908cf694bd4f2292b680c5f2daa1cd"
+      }
+    },
+    "5b8fce369c594604b6e1d729c578972c": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "7985ecab8fc749b1ab611869082c490a": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_5b8fce369c594604b6e1d729c578972c",
+        "outputs": []
+      }
+    },
+    "b209ec5d40c9493aa4900ee68da893ab": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "0d50af250f5f44f28188c5b9837812ca": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_dbf6dd310c3042b8885cc45b018e107f",
+          "IPY_MODEL_45d9ab2b334640bdbb99876b5a7da427"
+        ],
+        "layout": "IPY_MODEL_b209ec5d40c9493aa4900ee68da893ab"
+      }
+    },
+    "f03c691ca37f47c3a89018936230fb90": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "e5c449ee90b9487294868d0f5ad56735": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "dbf6dd310c3042b8885cc45b018e107f": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_f03c691ca37f47c3a89018936230fb90",
+        "style": "IPY_MODEL_e5c449ee90b9487294868d0f5ad56735"
+      }
+    },
+    "127b4ef5f68f48d39b17cfc071cfb4ac": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "45d9ab2b334640bdbb99876b5a7da427": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_127b4ef5f68f48d39b17cfc071cfb4ac",
+        "outputs": []
+      }
+    },
+    "c1f5203ccc5a459cb44c347d2387033a": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "a758cb9c729c4bb4814b873966710c2b": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_749a2ef6e9874edfbbc1f8a8f4ba5e36",
+          "IPY_MODEL_3ccdddce5d48461daf51ba467fc146f1"
+        ],
+        "layout": "IPY_MODEL_c1f5203ccc5a459cb44c347d2387033a"
+      }
+    },
+    "cbef09d9d8824e23a005abd640bba36c": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "34f4bc18c195480d8259564c3f19644a": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "749a2ef6e9874edfbbc1f8a8f4ba5e36": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 3,
+        "layout": "IPY_MODEL_cbef09d9d8824e23a005abd640bba36c",
+        "style": "IPY_MODEL_34f4bc18c195480d8259564c3f19644a"
+      }
+    },
+    "51bca456ec7149e0984c7c902e7ebb36": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "3ccdddce5d48461daf51ba467fc146f1": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_51bca456ec7149e0984c7c902e7ebb36",
+        "outputs": []
+      }
+    },
+    "69ab77eb40284b47ac88bc9a493062de": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "9b9530d64a9e455596ad120aa099b359": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_7f3f1773629148a18ef9d598bac3eaa5",
+          "IPY_MODEL_695bb4a615f74daba6348ac560e31f51"
+        ],
+        "layout": "IPY_MODEL_69ab77eb40284b47ac88bc9a493062de"
+      }
+    },
+    "334a2efeb2c6483caf973df81f16cc7b": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "d2d09e3d1a224315b1170e744cb690ec": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "7f3f1773629148a18ef9d598bac3eaa5": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 2,
+        "layout": "IPY_MODEL_334a2efeb2c6483caf973df81f16cc7b",
+        "style": "IPY_MODEL_d2d09e3d1a224315b1170e744cb690ec"
+      }
+    },
+    "a1c55c7031a7497fab1c11eb2d4b8a1e": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "695bb4a615f74daba6348ac560e31f51": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_a1c55c7031a7497fab1c11eb2d4b8a1e",
+        "outputs": []
+      }
+    },
+    "b24920759e0c49cc9dac83a25db4f717": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "4e0ec48bbbde4751975ac6e86e3e6ebe": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_089def4403384b25bc703ffc1581c5c8",
+          "IPY_MODEL_86857a58da504de6a07da77138ce737a"
+        ],
+        "layout": "IPY_MODEL_b24920759e0c49cc9dac83a25db4f717"
+      }
+    },
+    "e893a090f8cb45028609000670c7fabb": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "15b6d9ca78dc488e8e9f5d21021c0fca": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "089def4403384b25bc703ffc1581c5c8": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 3,
+        "layout": "IPY_MODEL_e893a090f8cb45028609000670c7fabb",
+        "style": "IPY_MODEL_15b6d9ca78dc488e8e9f5d21021c0fca"
+      }
+    },
+    "7c67f9f7f85b40f6997b9d87869dd6b1": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "86857a58da504de6a07da77138ce737a": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_7c67f9f7f85b40f6997b9d87869dd6b1",
+        "outputs": []
+      }
+    },
+    "dc2daa99183e4c7c954ffbff59d4900b": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "62d34fe3a63749978b6199623dadd4a5": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_d39071f4f8624658b9e2ca434ca3e39b",
+          "IPY_MODEL_55cca7e1b6214b8d827d669e4c43acd4"
+        ],
+        "layout": "IPY_MODEL_dc2daa99183e4c7c954ffbff59d4900b"
+      }
+    },
+    "e20dcd8249b04645a2aba2da9a7abce2": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "2aa9d61bb8034022920d3a499eca8d6a": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "d39071f4f8624658b9e2ca434ca3e39b": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_e20dcd8249b04645a2aba2da9a7abce2",
+        "style": "IPY_MODEL_2aa9d61bb8034022920d3a499eca8d6a"
+      }
+    },
+    "54022dd259474d0c96adc48ac2dc7041": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "55cca7e1b6214b8d827d669e4c43acd4": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_54022dd259474d0c96adc48ac2dc7041",
+        "outputs": []
+      }
+    },
+    "f66f4fd56ee848958a6e8d536322345b": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "003547c3689f48bfbd80eadc1dfeed48": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_be09a8ab39b74ab2b77e9f3f5f8d30c7",
+          "IPY_MODEL_207c39286d2c4ba5a6b61c846f630872"
+        ],
+        "layout": "IPY_MODEL_f66f4fd56ee848958a6e8d536322345b"
+      }
+    },
+    "1b1499452f714d798c9ae50c0fb0eefe": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "cb624447c9cb47f6aa850807f48fd7bb": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "be09a8ab39b74ab2b77e9f3f5f8d30c7": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 3,
+        "layout": "IPY_MODEL_1b1499452f714d798c9ae50c0fb0eefe",
+        "style": "IPY_MODEL_cb624447c9cb47f6aa850807f48fd7bb"
+      }
+    },
+    "af593c7b74e7492787c0309c9a0ad0ec": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "207c39286d2c4ba5a6b61c846f630872": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_af593c7b74e7492787c0309c9a0ad0ec",
+        "outputs": []
+      }
+    },
+    "ce734d062ee345ea9e95d5e6537fcc63": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "44652f7382384b6f9944de746fb5017f": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_bb2ff367d67d432489cef72194fc8234",
+          "IPY_MODEL_48f9e8cf021740ccbfada21868e182d3"
+        ],
+        "layout": "IPY_MODEL_ce734d062ee345ea9e95d5e6537fcc63"
+      }
+    },
+    "987460e1098a472e96c580d192292bd2": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "b0dec9c4c6a94af29bb2134681cc417c": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "bb2ff367d67d432489cef72194fc8234": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 1,
+        "layout": "IPY_MODEL_987460e1098a472e96c580d192292bd2",
+        "style": "IPY_MODEL_b0dec9c4c6a94af29bb2134681cc417c"
+      }
+    },
+    "e7e1d1a4a0d14dbca533a84d3ff0810e": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "48f9e8cf021740ccbfada21868e182d3": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_e7e1d1a4a0d14dbca533a84d3ff0810e",
+        "outputs": []
+      }
+    },
+    "d1f06227f49a47658beb15dde65d81df": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "1e3ee61c8fe5416e9ab066f01f38be3a": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_a13be0eefa70425690c5f9505ae1de16",
+          "IPY_MODEL_f915455c160b4f1082b80f0cda4c7025"
+        ],
+        "layout": "IPY_MODEL_d1f06227f49a47658beb15dde65d81df"
+      }
+    },
+    "171128a1ffea4e75ba7f8ad906f0d387": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "af596f75adc44043b305d2ffcaa12f65": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "a13be0eefa70425690c5f9505ae1de16": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_171128a1ffea4e75ba7f8ad906f0d387",
+        "style": "IPY_MODEL_af596f75adc44043b305d2ffcaa12f65"
+      }
+    },
+    "39ac845c29b54edd80e6bba47034a95d": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "f915455c160b4f1082b80f0cda4c7025": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_39ac845c29b54edd80e6bba47034a95d",
+        "outputs": []
+      }
+    },
+    "6f8f8cbad4444a11b9e65215560a8dff": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "4a7d6585ba734fa2a8150e76ecdc1c22": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [
+          "widget-interact"
+        ],
+        "children": [
+          "IPY_MODEL_81e34398c88e41cc93a625c0dd1aa338",
+          "IPY_MODEL_67053ed9a4a84b94b2a4909ad9aa853f"
+        ],
+        "layout": "IPY_MODEL_6f8f8cbad4444a11b9e65215560a8dff"
+      }
+    },
+    "5ae3a87affbb4fd8a619feec70c982d1": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "0eed1d8d09ac4c359a59efc7538012a0": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "81e34398c88e41cc93a625c0dd1aa338": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_5ae3a87affbb4fd8a619feec70c982d1",
+        "style": "IPY_MODEL_0eed1d8d09ac4c359a59efc7538012a0"
+      }
+    },
+    "688e1b6e9fc74260ab281f5efbc795a1": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "67053ed9a4a84b94b2a4909ad9aa853f": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_688e1b6e9fc74260ab281f5efbc795a1",
+        "outputs": []
+      }
+    },
+    "30e63b5ae31e48e5b1c6038fb07d3c8a": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {
+        "width": "220px"
+      }
+    },
+    "4e3107ecdc4f49e78033675194db96ea": {
+      "model_name": "DescriptionStyleModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "0ce8bb3b36724555a3eafac9129146e9": {
+      "model_name": "DropdownModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "_options_labels": [
+          "PsiD",
+          "PsiH",
+          "PsiK",
+          "PsiM"
+        ],
+        "description": "Enzyme",
+        "index": 0,
+        "layout": "IPY_MODEL_30e63b5ae31e48e5b1c6038fb07d3c8a",
+        "style": "IPY_MODEL_4e3107ecdc4f49e78033675194db96ea"
+      }
+    },
+    "81339290ca9a45fb963c3874f9bc3ad2": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "88db2d34a28442ee8a080e7311cdf073": {
+      "model_name": "OutputModel",
+      "model_module": "@jupyter-widgets/output",
+      "model_module_version": "1.0.0",
+      "state": {
+        "_dom_classes": [],
+        "layout": "IPY_MODEL_81339290ca9a45fb963c3874f9bc3ad2",
+        "outputs": []
+      }
+    },
+    "bef90125ea1a4da18454dbe7c445218e": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "state": {}
+    },
+    "7447e8e67bc44090a2662f4f22d0341b": {
+      "model_name": "VBoxModel",
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "state": {
+        "_dom_classes": [],
+        "children": [
+          "IPY_MODEL_0ce8bb3b36724555a3eafac9129146e9",
+          "IPY_MODEL_88db2d34a28442ee8a080e7311cdf073"
+        ],
+        "layout": "IPY_MODEL_bef90125ea1a4da18454dbe7c445218e"
+      }
+    }
+  }
+}
+</script>
+<script type="application/vnd.jupyter.widget-view+json">
+{"version_major": 2, "version_minor": 0, "model_id": "7447e8e67bc44090a2662f4f22d0341b"}
+</script>
+
+</body>
+</html>
