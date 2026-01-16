@@ -5,8 +5,8 @@
       "enzyme": "PsiD",
       "status": "OK",
       "score": 855.0,
-      "nt_len": 672,
-      "blocks": 3,
+      "nt_len": 678,
+      "blocks": 0,
       "strand": "-",
       "seqid": "NODE_8509_length_1747_cov_32.320370"
     },
@@ -14,8 +14,8 @@
       "enzyme": "PsiK",
       "status": "OK",
       "score": 905.0,
-      "nt_len": 696,
-      "blocks": 1,
+      "nt_len": 702,
+      "blocks": 0,
       "strand": "+",
       "seqid": "NODE_17991_length_756_cov_23.551669"
     },
@@ -27,8 +27,8 @@
       "enzyme": "PsiH",
       "status": "OK",
       "score": 1978.0,
-      "nt_len": 1509,
-      "blocks": 11,
+      "nt_len": 1515,
+      "blocks": 0,
       "strand": "+",
       "seqid": "NODE_2568_length_6941_cov_20.280158"
     }

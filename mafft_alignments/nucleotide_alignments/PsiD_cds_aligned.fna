@@ -1,4 +1,4 @@
->Psilocybe_cubensis_IBUG-4367.scaffolds|PsiD status=OK;introns=3;nt_len=1317.0
+>Psilocybe_cubensis_IBUG-4367.scaffolds|PsiD status=OK;introns=0;nt_len=1323.0
 ----atgcaggtgatacccgcgtgcaactcggcagcaataagatcactatgtcctactcc
 cgagtcttttagaaacatgggatggctctctgtcagcgatgcggtctacagcgagttcat
 aggagagttggctacccgcgcttccaatcgaaattactccaacgagttcggcctcatgca
@@ -21,8 +21,8 @@ caacaaggaaattggcctcattttccttgtgttcatcggcatgaccgaaatctcgacatg
 tgaagccacggtgtccgaaggtcaacacgtcaatcgtggcgatgacttgggaatgttcca
 tttcggtggttcttcgttcgcgcttggtctgaggaaggattgcagggcagagatcgttga
 aaagttcaccgaacccggaacagtgatcagaatcaacgaagtcgtcgctgctctaaaggc
-t
->Psilocybe_acutissima_GAM00011063.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+tctataa
+>Psilocybe_acutissima_GAM00011063.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agcgcct----------------------tcaggaccctgcgtccatccgc
 ggatgcgttcagaaaattcggctggttgcccaccgacgacaacgtctataacgaattcat
 aacggatttaaccaaacggacatgcaatgaaacgtattctagtcaactcacgttgctcca
@@ -45,8 +45,8 @@ caataaagatattggtctcattttcctggtcttcatcggcatgacagaagtgtcgacttg
 tgaagctacagtctgcgaaggccaatacgttaaccgcggggatgatcttggaatgttcca
 ttttggcggctcgtcctttgctattggtttccagcgcgattcgaatatcgagatagtcaa
 gaaatatcggtcaaaggggacggttatcagggttaacgatttgattggaacagtaaag--
--
->Psilocybe_angustipleurocystidiata_ISOTYPE_NY-761597.scaffolds|PsiD status=OK;introns=1;nt_len=1293.0
+-ctataa
+>Psilocybe_angustipleurocystidiata_ISOTYPE_NY-761597.scaffolds|PsiD status=OK;introns=0;nt_len=1299.0
 tgcgtattaagcgcct----------------------tcaagactctgcgtccatccgc
 ggatgccttcagaaaactcggttggctgcccactgacgacgaggtctacaacgaattcat
 agcggatctaactaagcggacatgcaacgaaaaatacgcgagtcaagtcacacttctaca
@@ -69,8 +69,8 @@ caataaagacatcggcctaatttttgttgtattcatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgaaggccagcacgtcgaacgcggggatgatctggggatgttcca
 tttcggcggctcgtccttcgcgattggcttccaacgggactcgaacatcgagatcgtcga
 gaaatgccgaacaaaggggacggtgatcaaggtcaacgcgttgattgggtcggtgaag--
--
->Psilocybe_arcana_ISOTYPE_SFSU-F-000737.scaffolds|PsiD status=OK;introns=2;nt_len=672.0
+-ctataa
+>Psilocybe_arcana_ISOTYPE_SFSU-F-000737.scaffolds|PsiD status=OK;introns=0;nt_len=678.0
 ----atgcaggtactgcccgcgcgccaatcttccgcgcttaaaacactgtgcccatcccc
 cgaagcctttcgaaagctcggttggctccctactagtgatgagggctataacgaattcat
 cgacgacttgaccggtcgcacgtgtaatgaaaaatactccagccaggttactctcatgaa
@@ -82,7 +82,7 @@ cttccacttcaaaaagctcttcgacacttggggactgttcctttcctcgaaagactctcg
 caacgtgcttgttgcggatcggtttgacgacaagcactatgggtggttcagcgagcgagc
 caagactgccatgatgataaattatccaggccgtacattcgaggaagttttcatctgcga
 cgagcacgctccataccatggcttcacttcttacgatgatttcttcaatcgccggtttag
-agacagggatacagat--------------------------------------------
+agacagggatacagatc-------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -93,8 +93,8 @@ agacagggatacagat--------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_argentipes_NY-1595850.scaffolds|PsiD status=OK;introns=0;nt_len=588.0
+--tataa
+>Psilocybe_argentipes_NY-1595850.scaffolds|PsiD status=OK;introns=0;nt_len=594.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -117,8 +117,8 @@ caataaggatatcggcctcatttttgttgtatttatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgagggccaacacgtcgagcgcggagatgatcttgggatgttcca
 tttcggcggctcgtccttcgcgattgggttccagcgggactcgaacatcgagatagtcga
 gaaataccggacaaaggggacggtaatcaatgtc--------------------------
--
->Psilocybe_aztecorum_SFSU-F-029933.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+-ctataa
+>Psilocybe_aztecorum_SFSU-F-029933.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtacttcccgcgcgtcaatcttccgcgcttaaaacgttgtgcccatctcc
 cgaggcctttcgaaagctcggttggctccctactagtgatgaggtctacaacgaattcat
 cgatggcttgaccggtcgcacgtgtaatgaaaaatactccagccaggttactctcatgaa
@@ -141,8 +141,8 @@ caacaaggacattggcctcattttcttagtattcattgggatgactgagatctcgacctg
 cgaggcgacggtgtgcgaaggtcagcatgtcaaccgaggtgacgatttgggcatgttcca
 cttcggtggttcatctttcgcccttggtttgcggaaggactcaaaggcagatattttcga
 aaagttcgcgaaaccaggaaccgttattaagatcaacgagctagttgcgtctgtgagg--
--
->Psilocybe_aztecorum_var_bonetii_NY-1595856.scaffolds|PsiD status=OK;introns=3;nt_len=1314.0
+-ctataa
+>Psilocybe_aztecorum_var_bonetii_NY-1595856.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtacttcccgcgcgtcaatcttccgcgcttaaaacgttgtgcccatctcc
 cgaggcctttcgaaagctcggttggctccctactagtgatgaggtctacaacgaattcat
 cgatggcttgaccggtcgcacgtgtaatgaaaaatactccagccaggttactctcatgaa
@@ -165,32 +165,32 @@ caacaaggacattggcctcattttcttagtattcattgggatgactgagatctcgacctg
 cgaggcgacggtgtgcgaaggtcagcatgtcaaccgaggtgacgatttgggcatgttcca
 cttcggtggttcatctttcgcccttggtttgcggaaggactcaaaggcagatattttcga
 aaagttcgcgaaaccaggaaccgttattaagatcaacgagctagttgcgtctgtgagg--
--
->Psilocybe_azurescens_Lg-bg-ut.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+-ctataa
+>Psilocybe_azurescens_Lg-bg-ut.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtaatgcccgcgtgccactcttccgcgcttacatcattatgcccaacccc
-ggaggcctttcgaaaaatgggatggctccctgctagcgatgcagtctttaacgaattcat
+ggaggcctttcgaaaaatggggtggctccctgctagcgatgcagtctttaacgaattcat
 gggggacttgaccgaccgcacatgcaacgaaaagtactccagtcaggttaccctcatgca
 gcctatccaagacttcaaggctttcatcgaaagcgaccccgttgtgtatcaagaattcat
 cacaatgtttgaggggatcgaggagtctcccaggaattatcacgagctatgtaatatgtt
-caacgacatttttcgcaaagccccagtctacggtgatcttgggcctccagtttacatgat
+caacgatatttttcgcaaagccccagtctacggcgatcttgggcctccagtttacatgat
 catggctaggatcatgaacacacaggcgggtttctctgcgttcacaaaacagagcttgaa
 cttccacttcaaaaagcttttcgacacctgggggctattcctttcctcgaaagactctcg
-caacgtgcttgttgccgatcagtttgacgacaagcattacggctggttgagtgagcgagc
+caacgtgcttgttgctgatcagtttgacgacaagcattacggctggttgagcgagcgagc
 gaaatctgccatggtgaaacattacaacgggcgcacattcgaagaagtcttcatctgcga
 cgagcgctctccgtaccacggcttcacttcttacgacgacttctttaatcgcaggttcag
-ggatagggatatagaccggcctgtcgtcggtgggattgacgacaccactctcatttcggc
-tgcttgtgaatcactttcgtataacgtctctcacaatgtccaatctctcgacacgctatt
+ggatagggatatagaccggcctgttgtcggtgggattgacgacaccactctcatttcggc
+tgcctgtgaatcactttcgtataacgtctctcacaatgtccaatctctcgacacgctatt
 catcaaaggcgaggcttattcgcttaaacatctacttcacaacgacccttttacaccaca
 attcgaacatgggagcatcattcaaggattcctaaacgtcaccgcttaccaccgatggca
-cgcccccgtgaatggcacaattctcaaaatcgtcaacgttccgggcacctacttcgccca
+cgctcccgtgaatggcacaattctcaaaatcgtcaacgttccgggcacctacttcgccca
 agctcctagcacaattggcgagcccatcccagataatgatttcgacccccctccttactt
-aaaatctctcatttacttctccaacatcgctgcgcgccaaatcatgttcatcgaagccga
+aaaatctctcatttacttctccaacatcgctgcgcggcaaatcatgttcatcgaagccga
 taacaaagacatcggccttattttcctggtcttcatcggtatgaccgagatctcgacttg
 cgaggcaacggtatctgaaggtcagcatgtcaatcgtggtgacgatttgggcatgttcca
-tttcggcggttcgtcattcgctcttggcttgcggaaggactgtacggcggagatcttcga
-aacattcaaggaatcggggaccgtcatcaaaattaacgacctggttgcggccgtcaaa--
--
->Psilocybe_azurescens_WTU-F19095-HOLOTYPE.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+tttcggcggttcgtcattcgctcttggcttgcggaaggactgtacagcggagatcttcga
+aacattcaaggaatcggggaccgtcatcaaaattaacgacttggttgcggccgtcaaa--
+-ctataa
+>Psilocybe_azurescens_WTU-F19095-HOLOTYPE.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtaatgcccgcgtgccactcttccgcgcttacatcattatgcccaacccc
 ggaggcctttcgaaaaatggggtggctccctgctagcgatgcagtctttaacgaattcat
 gggggacttgaccgaccgcacatgcaacgaaaagtactccagtcaggttaccctcatgca
@@ -213,8 +213,8 @@ taacaaagacatcggccttattttcctggtcttcatcggtatgaccgagatctcgacttg
 cgaggcaacggtatctgaaggtcagcatgtcaatcgtggtgacgatttgggcatgttcca
 tttcggcggttcgtcattcgctcttggcttgcggaaggactgtacagcggagatcttcga
 aacattcaaggaatcggggaccgtcatcaaaattaacgacttggttgcggccgtcaaa--
--
->Psilocybe_baeocystis_WTU-F-011245.scaffolds|PsiD status=OK;introns=0;nt_len=618.0
+-ctataa
+>Psilocybe_baeocystis_WTU-F-011245.scaffolds|PsiD status=OK;introns=0;nt_len=624.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -237,8 +237,8 @@ taacaaagacatcggccttattttcctggtcttcatcggtatgaccgagatctcgacttg
 cgaggcaacggtatctgaaggtcagcatgtcaatcgtggtgacgatttgggcatgttcca
 tttcggcggttcgtcattcgctcttggcttgcggaaggactgtacagcggagatcttcga
 aacattcaaggaatcggggaccgtcatcaaaattaacgacctggttgcggccgtcaaa--
--
->Psilocybe_bohemica_SFSU-F-029930.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+-ctataa
+>Psilocybe_bohemica_SFSU-F-029930.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtactgcccgcgtgccaatcttccgcgcttaaaacattgtgcccatcccc
 cgaggcctttcgaaagctcggttggctccctactagcgacgaggtttacaacgaattcat
 cgatgacttgaccggtcgcacgtgcaatgaaaagtactccagccaggttacacttttgaa
@@ -261,8 +261,8 @@ caacaaagacatcggcctcattttcttggtcttcattggaatgactgagatctcgacttg
 cgaggcgacggtgtgcgaaggtcagcatgtcaaccgcggtgacgatttgggcatgttcca
 tttcggtggttcatcttttgcccttggcttgcggaaggactcgaaggcgaagattttgga
 aaagttcgcgaaaccggggaccgttattaggatcaacgagctagttgcatctgtaagg--
--
->Psilocybe_caerulescens_NY-1920304.scaffolds|PsiD status=OK;introns=1;nt_len=1296.0
+-ctataa
+>Psilocybe_caerulescens_NY-1920304.scaffolds|PsiD status=OK;introns=0;nt_len=1302.0
 tgtgaattaagcgcct----------------------tcaagactttgcgtccatccgc
 ggacgccttccgagcacttggttggctgcccaccgacgacaaaggcttcaacgagttcat
 tacggatcttaccaagcggtcatgtaacgaagactatccaactcaagtcacactcctgca
@@ -285,8 +285,8 @@ caatagagacatcggcctcattttcgtcgtcttcattggtatgacggaagtctcgacctg
 tgaggcgacggtgtgcgaaggtcagcacgtccagcggggggatgatcttggaatgttcca
 tttcgggggttcatcgttcgcgattggcttccagcgggattcaacagtcaagatcgccga
 gaaatatcaaacaaagggcacggtcatcagggtgaacgcgttgattgggtcagtgaag--
--
->Psilocybe_caerulescens_var_mazatecorum_SFSU-F-029971.scaffolds|PsiD status=OK;introns=1;nt_len=786.0
+-ctataa
+>Psilocybe_caerulescens_var_mazatecorum_SFSU-F-029971.scaffolds|PsiD status=OK;introns=0;nt_len=792.0
 tgtgaattaagcgcct----------------------tcaagactttgcgtccatccgc
 ggacgccttccgagcacttggttggctgcccaccgacgacaaaggcttcaacgagttcat
 tacggatcttaccaagcggacatgtaacgaagactatccaactcaagtcacactcctgca
@@ -300,7 +300,7 @@ tagggctggtatgatggcccactacgacggtcggacattcgaggaggttttcctttgcga
 ccagcacgctccataccatggtttctcctcatacgaccattttttcaaccgcaggttcag
 agatagagacgttgatcgtcccgtcgttggtggggtcagcaacataaatctcattggagc
 gccctgcgaatcggtgctatacaatgtatcggacgacgtgcagtctcttgaaaccttgtt
-catcaaaggcgaagcctattcgcttcga--------------------------------
+catcaaaggcgaagcctattcgcttcgac-------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -309,8 +309,8 @@ catcaaaggcgaagcctattcgcttcga--------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_caerulipes_PUL00030154.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+--tataa
+>Psilocybe_caerulipes_PUL00030154.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ------tcaagaaccg----------------------ccaaaactctgattccatccgc
 cgacgcctttcgaaaactcggttggctccctgccaacgatgaggtctataacaagtttat
 ggcggatttgaccgaccacacatgcaacgagaaatactccagtcaggtcacacttctgca
@@ -333,8 +333,8 @@ caacaaagacatcggccttattttcgtgatcttcattggtatgacagaagtgtcgacttg
 cgaggcaacggtgtgcgagggtcaacatgtagagcgaggtgacgatttgggaatgttcca
 tttcggtggttcatccttcgctcttggcctccggagggactcgaaggccgagattctcga
 caagttcagaaaaaaagggaccgtcatcaaagtcaacgagttgatggcgtctgta-----
--
->Psilocybe_callosa_NY-1595861.scaffolds|PsiD status=OK;introns=1;nt_len=1290.0
+-ctataa
+>Psilocybe_callosa_NY-1595861.scaffolds|PsiD status=OK;introns=0;nt_len=1296.0
 ---------agcagta----------------------tcacgacccttcgtccctcggt
 ggggtcctttcgaaaacttggctggctcgctgccgaagacgatgtttattcagagttcat
 atctgacttgaccagtcgcacctgcaacaaagagtacaccacccagatcgaacttttgaa
@@ -357,32 +357,8 @@ caacaaagacatcggcctcatcttcgtcgttttcattggcatgacggaggtgtcgacgtg
 cgaggctacggtctccgaaggccagcacgtcgagcgcggcgatgacctggggatgttcca
 ctttggcggctcatcctttgcgatcggctttcagaggaacagcaagatcgagatctgtga
 aaagttcagacaaaaagggacagtcatcaaggtgaacgagatgatcgccattgtgaaggc
-c
->Psilocybe_columbiana_ISOTYPE_NY-761607.scaffolds|PsiD status=OK;introns=0;nt_len=507.0
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-----------------------------ggtggcattagcgacatcaatctcatcggagc
-tccgtgcgagtcagtgtcgtacaacgtgtccgacgacgtccaatcacttgacacactatt
-catcaaaggggaggcttattctctcagacacctgctcaataacgaccctttcacctcgaa
-gttcgagcatggaagtatcctccaagggttcctcaacatcaccgcttatcaccggtggca
-atcccccgtaaacggcaccatcgtgaagatcgtcaacgttccagggacctatttcgccca
-agctccctacaccattggtgatccaatccctgataacaactacgacccgcctccatacct
-tcgctcccttgtctatttctccaacatcgccacgaggcagatcatgttcattgaggcgga
-caataaggatatcggcctcatttttgtggtattcatcggcatgacggaagtatcgacctg
-cgaggcaacggtgtgcgagggacaacacgtcgagcgcggagatgatctggggatg-----
-------------------------------------------------------------
-------------------------------------------------------------
--
->Psilocybe_congolensis_ISOTYPE_NY-1652567.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+cctataa
+>Psilocybe_congolensis_ISOTYPE_NY-1652567.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agcgcct----------------------tcaagactctccgtccatccgc
 ggaagccttcagaacactcggttggttacccactgacgacgaagtctttaacgacttcat
 taaagatctaactaagcgggcatgtaacgaaaaatatccaagtcaggtcaccctactgca
@@ -405,8 +381,8 @@ caacaaggacatcggcctcatttttgtcgtcttcattggcatgacagaagtctccacgtg
 cgaagcgacggtgtgcgaaggccaacacgtccagcggggggatgatcttgggatgttcca
 tttcggtggctcgtctttcgcgattggtttccagcgggattcgagaatcgaaatctccga
 gccatatcggacaaagggagtggtcattagggtaaacgcgctgattgggtcggtgaag--
--
->Psilocybe_cyanescens_WTU-F-011306.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+-ctataa
+>Psilocybe_cyanescens_WTU-F-011306.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtaatgcccgcgtgccactcttccgcgcttacatcattatgcccaacccc
 ggaggcctttcgaaaaatggggtggctccctgctagcgatgcagtctttaacgaattcat
 gggggacttgaccgaccgcacatgcaacgaaaagtactccagtcaggttaccctcatgca
@@ -429,8 +405,8 @@ taacaaagacatcggccttattttcctggtcttcatcggtatgaccgagatctcgacttg
 cgaggcaacggtatctgaaggtcagcatgtcaatcgtggtgacgatttgggcatgttcca
 tttcggcggttcgtcattcgctcttggcttgcggaaggactgtacagcggagatcttcga
 aacattcaaggaatcggggaccgtcatcaaaattaacgacttggttgcggccgtcaaa--
--
->Psilocybe_cyanofibrillosa_ISOTYPE_NY-761605.scaffolds|PsiD status=OK;introns=0;nt_len=681.0
+-ctataa
+>Psilocybe_cyanofibrillosa_ISOTYPE_NY-761605.scaffolds|PsiD status=OK;introns=0;nt_len=687.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -450,11 +426,11 @@ gtccccagtgaacggtacaatcgtaaagatagtcaacgttcctgggacatacttcgccca
 agcaccctacaccatcggagatcctataccaaacaacaactacgaccctcctccatacct
 acgatctcttgcttatttctccaacatcgccactcggcaaatcatgttcatagaggccga
 caacaaagacatcggcctaatcttcgtcgttttcattggcatgacggaagtgtcgacatg
-cgaggctacggtctccgaaggc--------------------------------------
+cgaggctacggtctccgaaggcctata---------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_fagicola_var_mesocystidiata_NY-761608.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+------a
+>Psilocybe_fagicola_var_mesocystidiata_NY-761608.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ------tcaagcgcct----------------------tcaggactctgcgtccatccgc
 cgaggcctttaggaagctcggctggctaccgacagaggatgaggtctacaccgaatttat
 gtcggatctgaccacacggacctgcaacgagaaatactcaagtcgtgttacactcctcca
@@ -477,8 +453,8 @@ caacaaagacattggccttattttcgtggtcttcatcggtatgacggaggtatccacgtg
 cgaagcgacggtatgcgaaggccagcatgtcgagcgcggagatgatctggggatgtttca
 tttcggcggctcgtctttcgctattggtttccagaaggagtctaacgtcgcgatcctcga
 gaaataccgaacaaagggcaccgtcatcaaagtgaacgcgttgattgggtcggta-----
--
->Psilocybe_fimetaria_UBC-F30923.scaffolds|PsiD status=OK;introns=1;nt_len=1203.0
+-ctataa
+>Psilocybe_fimetaria_UBC-F30923.scaffolds|PsiD status=OK;introns=0;nt_len=1209.0
 ---------agcgcca----------------------tcacaacactccgtccttctgg
 ggatgcctttcgaaaacttggctggctcgctgccgacgacgaggcctacaacgagttcat
 atcggacttgaccggtcgcacctgcaacaaaacatacaccgcccaggtcgcccttctaaa
@@ -501,8 +477,8 @@ caacaaggacatcggtctcatcttcgtcgttttcattggcatgacggaggtatcaacctg
 cgaggcgacggtccacgaaggccagcatgttgagcgcggtgatgatctcggaatgttcca
 ctttggtggctcatcctttgcaatcggcttccag--------------------------
 ------------------------------------------------------------
--
->Psilocybe_galindii_ISOTYPE_NY-761609.scaffolds|PsiD status=OK;introns=1;nt_len=792.0
+-ctataa
+>Psilocybe_galindii_ISOTYPE_NY-761609.scaffolds|PsiD status=OK;introns=0;nt_len=798.0
 ---------agcacaa----------------------tcaagacattgcgtccgtccgc
 ggatgccttcagaaaactaggctggttgcccaccgacgacaaggtctatcacgaattcat
 tacggacctaaccaaaaggacatgcaacgaaacatattcggaccaagtcacactcctgca
@@ -525,8 +501,8 @@ catcaaaggtgaagcttattcgctcagacacctgctcaacaac-----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_guilartensis_PARATYPE_CFMR-PR-5680.scaffolds|PsiD status=OK;introns=1;nt_len=1290.0
+-ctataa
+>Psilocybe_guilartensis_PARATYPE_CFMR-PR-5680.scaffolds|PsiD status=OK;introns=0;nt_len=1296.0
 ------tcaagcgcct----------------------tcaggactctgcgtccatccgc
 cgaggcctttaggaaactcggctggctaccgacagaggatgaggtctacaacgaatttat
 ggctgatctgaccacacggacttgcaacgagaaatactcaagtcatattacactcctcca
@@ -549,8 +525,8 @@ caacaaagacattggcctgattttcgtggtcttcatcggcatgaccgaggtttctacgtg
 cgaagcgacggtatgcgaaggccagcatgtcgagcgcggggatgatttggggatgttcca
 tttcggcggctcgtctttcgctattggcttccagaagggctcgaacatcgagatcctaga
 gaaataccgaacaaagggaacggtcatcagggtgaacgcgttgattgggtcggtacag--
--
->Psilocybe_heimii_ISOTYPE_NY-761610.scaffolds|PsiD status=OK;introns=1;nt_len=1209.0
+-ctataa
+>Psilocybe_heimii_ISOTYPE_NY-761610.scaffolds|PsiD status=OK;introns=0;nt_len=1215.0
 ------tcaagcgcct----------------------tcaggactctgcgtccatccgc
 cgaggcctttagaaaactcggctggctaccgacagaggatgaggtctacaacgaatttat
 ggcggatctgaccacacggacttgcaacgagaaatactcaagtcatattacactcctcca
@@ -573,8 +549,8 @@ caacaaagacattggcctaattttcgtggtcttcattggcatgactgaggtttctacatg
 cgaagcgacggtatgcgaaggtcagcatgtcgagcgcggggatgatctgggaatgttcca
 tttcggcggctcgtctttcgctattggcttccagaag-----------------------
 ------------------------------------------------------------
--
->Psilocybe_hoogshageni_SFSU-F-029980.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+-ctataa
+>Psilocybe_hoogshageni_SFSU-F-029980.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agcgcct----------------------tcaggaccctgcgtccatccgc
 ggatgcgttcagaaaattcggctggttgcccaccgacgacaacgtctataacgaattcat
 aacggatttaaccaaacggacatgcaatgaaacgtattctagtcaactcacgttgctcca
@@ -597,8 +573,8 @@ caataaagatattggtctcattttcctggtcttcatcggcatgacagaagtgtcgacttg
 tgaagctacagtctgcgaaggccaatacgttaaccgcggggatgatcttggaatgttcca
 ttttggcggctcgtcctttgctattggtttccagcgcgattcgaatatcgagatagtcaa
 gaaatatcggtcaaaggggacggttatcagggttaatgatttgattggaacagtaaag--
--
->Psilocybe_hoogshagenii_var_convexa_ISOTYPE_NY-761612.scaffolds|PsiD status=OK;introns=0;nt_len=1059.0
+-ctataa
+>Psilocybe_hoogshagenii_var_convexa_ISOTYPE_NY-761612.scaffolds|PsiD status=OK;introns=0;nt_len=1065.0
 ---------------------------------------------------tcctccca-
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -621,8 +597,8 @@ caataaggatatcggcctcatttttgtggtattcatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgagggccaacacgtcgagcgcggagatgatctggggatgttcca
 tttcggcggctcgtccttcgcgattgggttccagcgggactcgaacatcgagatcgtgga
 gaaataccgaacaaaggggacggtaatcaaggtcaacgcattgattgggtcggtgaag--
--
->Psilocybe_hopii_ISOTYPE_XAL-#.scaffolds|PsiD status=OK;introns=0;nt_len=858.0
+-ctataa
+>Psilocybe_hopii_ISOTYPE_XAL-#.scaffolds|PsiD status=OK;introns=0;nt_len=864.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -645,8 +621,8 @@ caacaaagacatcgggctcatttttctggtcttcatcgggatg-----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_liniformans_var_americana_NY-1797145.scaffolds|PsiD status=OK;introns=1;nt_len=1290.0
+-ctataa
+>Psilocybe_liniformans_var_americana_NY-1797145.scaffolds|PsiD status=OK;introns=0;nt_len=1296.0
 ---------agcagta----------------------tcacgacccttcgtccctcggt
 ggggtcctttcgaaaacttggctggctcgctgccgaagacgatgtttattcagagttcat
 atctgacttgaccagtcgcacctgcaacaaagagtacaccacccagatcgaacttttgaa
@@ -669,8 +645,8 @@ caacaaagacatcggcctcatcttcgtcgttttcattggcatgacggaggtgtcgacgtg
 cgaggctacggtctccgaaggccagcacgtcgagcgcggcgatgacctggggatgttcca
 ctttggcggctcatcctttgcgatcggctttcagaggaacagcaagatcgagatctgtga
 aaagttcagacaaaaagggacagtcatcaaggtgaacgagatgatcgccattgtgaaggc
-c
->Psilocybe_mexicana_IBUG-13593.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+cctataa
+>Psilocybe_mexicana_IBUG-13593.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agcacaa----------------------tcaagacattgcgtccgtccgc
 ggatgccttcagaaaactaggctggttgcccaccgacgacaaggtctatcacgaattcat
 tacggacctaaccaaaaggacatgcaacgaaacatattcggaccaagtcacactcctgca
@@ -693,8 +669,8 @@ caataaagacatcggcctcattttcgttgtcttcatcggcatgacggaagtatcgacgtg
 cgaggcgaccgtttgcgaagggcaacacgtcaagcgcggagatgatttgggaatgttcca
 ttttggcggctcgtccttcgcgattggattccagcgggacgcaaacatcgagattgtaga
 gaaatatcggacgaaaggcacggtcatcagagtgaacgggttgattgggtcggtgaag--
--
->Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds|PsiD status=OK;introns=2;nt_len=1314.0
+-ctataa
+>Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds|PsiD status=OK;introns=0;nt_len=1320.0
 ----atgcaggtactgcccgcgtgccaatcttccgcgcttaaaacattgtgcccatcccc
 cgaggcctttcgaaagctcggttggctccctactagcgacgaggtttacaacgaattcat
 cgatgacttgaccggtcgcacgtgcaatgaaaagtactccagccaggttacacttttgaa
@@ -717,8 +693,8 @@ caacaaagacatcggcctcattttcttggtcttcattggaatgactgagatctcgacttg
 cgaggcgacggtgtgcgaaggtcagcatgtcaaccgcggtgacgatttgggcatgttcca
 tttcggtggttcatcttttgcccttggcttgcggaaggactcgaaggcgaagattttgga
 aaagttcgcgaaaccggggaccgttattaggatcaacgagctagttgcatctgtaagg--
--
->Psilocybe_muliercula_GAM00011071.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+-ctataa
+>Psilocybe_muliercula_GAM00011071.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agtgcct----------------------tcaagactctgcgtccatccgc
 agatgccttcagaaaacttggttggctgcccaccgatgatgaggtctacaacgaattcat
 gacggatctaaccagacgagtatgcaatgaaaaatacgccagtcaagtcatactcctaca
@@ -741,8 +717,8 @@ caataaggatatcggcctcatttttgtggtattcatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgagggccaacacgtcgagcgcggagatgatctgggaatgttcca
 tttcggcggttcgtccttcgcgattgggttccagcgggactcgaacatcgagattgtgga
 gaaataccgaacgaaggggacggtaatcaaagtcaacgcattggttgggtcggtgaag--
--
->Psilocybe_ovoideocystidiata_ISOTYPE_XAL-51B.scaffolds|PsiD status=OK;introns=0;nt_len=1053.0
+-ctataa
+>Psilocybe_ovoideocystidiata_ISOTYPE_XAL-51B.scaffolds|PsiD status=OK;introns=0;nt_len=1059.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -765,32 +741,8 @@ caataaggatatcggtctaattttccttgtctttatcggcatgactgaaatctctacctg
 tgaggcaacggtatccgagggccaacatgtcaatcgaggtgacgatttgggcatgttcca
 ttttggcggctcttcattcgcgcttggcttgcggaaggactgcaaagcggagatttttga
 aaagtttagcgaccaagggaccgttatcaaaatcaacgaggtcgttgcggctgtcaaa--
--
->Psilocybe_pelliculosa_WTU-F-012331.scaffolds|PsiD status=OK;introns=0;nt_len=1053.0
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
--------------------------cagcccagagactaccacgagctctgcaacatgtt
-caatgacatttttcgcaaagctccaacctacggcgatctcgggcctccgatgtacatggt
-catggctaagatcatgaacaccaaagcaggcttctctgcgttcaccagggagagcctgaa
-cttccacttcaaacagttattcgatacatgggggctctacctttcctcaaaaaattcgtg
-cgacgtgcttgtggcaggcaagttcggtgacaggcattacggatggtttagcgaccctgc
-caaagctgctatgatggcgcattattgcaagcgtacattcgaggaagtttttatatgtga
-cgagcacgcaccataccatggattcaactcctacgacgatttcttcaaccggaggtttag
-agatagagatatcgaccgccccgtggttggtggaaccagtaatgtcaacttcattggagc
-agcttgcgaatcggtatcgtacaacgtttccgataacgtccagtccctcgacaccctatt
-catcaaagacgaggcctactcactcaaacacctcctcaacaatgaccccttcaccccaaa
-attcgaaaatggaagcatcctccaaggatttctcaacatcaccgcataccaccgatggca
-atcccccgtgaacggcacaatcgtgaagatcgttaacgttccggggacgtacttcgccca
-agcgccctataccatcggagatccgataccgaacaacaactacgacccccctccttactt
-acggtccctcgtttacttttccaacatcgccactcgccagatcatgttcatagaggccga
-caacaaagacatcggtctcatcttcgtcgttttcattggcatgacggaagtctcgacttg
-cgaggctacggtctccgaaggccagcatgttgaacgcggtgatgatttgggaatgttcca
-cttcggcggctcatcctttgctatcggcttccagagggacaccaagatcgaaattgttga
-aaagttcagaaaaaaggggaccgtcatcaaggtgaacgagatgatcgccactgtgaag--
--
->Psilocybe_pleurocystidiosa_ISOTYPE_NY-761619.scaffolds|PsiD status=OK;introns=1;nt_len=1293.0
+-ctataa
+>Psilocybe_pleurocystidiosa_ISOTYPE_NY-761619.scaffolds|PsiD status=OK;introns=0;nt_len=1299.0
 ---acatcaagcgcct----------------------tcaggactctgcgtccatccgc
 cgaggcctttagaaaactcggctggctaccgacagaggatgaggtctacaacgaatttat
 ggcggatctgaccacacggacttgcaacgagaaatactcaagtcatattacactcctcca
@@ -813,8 +765,8 @@ caacaaggacattggcctgattttcgtggtcttcatcggcatgactgaggtttctacgtg
 cgaagcgacggtatgcgaaggccagcatgtcgagcgcggggatgatttggggatgttcca
 tttcggcggctcgtctttcgctattggcttccagaagggctcgaacatcgagatcctaga
 gaaataccgaacaaagggaacggtcatcaaggtaaacgcgttgattgggtcggtaaag--
--
->Psilocybe_portoricensis_CFMR-PR-4572.scaffolds|PsiD status=OK;introns=0;nt_len=648.0
+-ctataa
+>Psilocybe_portoricensis_CFMR-PR-4572.scaffolds|PsiD status=OK;introns=0;nt_len=654.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -837,8 +789,8 @@ caacaaagacatcggccttattttcgtggtcttcattggcatgacggaggtttctacgtg
 cgaagcgacggtatgcgaaggccagcatgtcgagcgcggggatgatctgggcatgttcca
 tttcggcggctcgtctttcgctattggcttccagaaggactcgaatatcgtgatcctgga
 gaaataccggacaaagggaacggtcatcaaggtgaacgcgctgattgggtcggtaaag--
--
->Psilocybe_quebecensis_NY-1901130.scaffolds|PsiD status=OK;introns=1;nt_len=1203.0
+-ctataa
+>Psilocybe_quebecensis_NY-1901130.scaffolds|PsiD status=OK;introns=0;nt_len=1209.0
 ------tcaagaaccg----------------------ccaaaactctgattccatccgc
 cgacgcctttcgaaaactcggttggctccctgccaacgatgaggtctataacaagtttat
 ggcggatttgaccgaccacacatgcaacgagaaatactccagtcaggtcacacttctgca
@@ -859,10 +811,10 @@ agctccctacacaattggagatcccattccagataacaactacgaccctccaccttatct
 aaggtctctcgcctacttctctaacatcgctgctcggcaaattatgttcatcgaggccga
 caacaaagacatcggccttatttttgtgatcttcattggtatgacagaagtgtcgacttg
 cgaggcaacggtgtgcgagggtcaacatgtagagcgaggtgacgatttgggaatgttcca
-tttcggtggttcatccttcgctcttggcctc-----------------------------
+tttcggtggttcatccttcgctcttggcctcc----------------------------
 ------------------------------------------------------------
--
->Psilocybe_samuiensis_WTU-F-055014.scaffolds|PsiD status=OK;introns=1;nt_len=1278.0
+--tataa
+>Psilocybe_samuiensis_WTU-F-055014.scaffolds|PsiD status=OK;introns=0;nt_len=1284.0
 ---------agcgcct----------------------tcaagactctccgtccatccgc
 ggaagccttccgaacactcggttggttacccactgaggacgaagtctttaacgacttcat
 taaaaatctaaccaagcggacatgcaacgaaaaatatccaagtcaggtctccctactgca
@@ -885,8 +837,8 @@ caacaaagaaatcggcctcgtttttgtcgtcttcattggcatgacggaagtctctacctg
 cgaagcgacggtgtgcgaaggccaacacgtccagcggggggatgatcttgggatgttcca
 tttcggtggctcgtctttcgcgattggtttccagcgcgattcaggaatcgaaatatctga
 gccatatcggacaaagggagcggtcatcagggtaaacgcgttgattgca-----------
--
->Psilocybe_semilanceata_SFSU-F-029972.scaffolds|PsiD status=OK;introns=0;nt_len=552.0
+-ctataa
+>Psilocybe_semilanceata_SFSU-F-029972.scaffolds|PsiD status=OK;introns=0;nt_len=558.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -903,14 +855,14 @@ ggcctgtgaatcagtatcgtacaacgtttccgacaacgtccagtccctcgacaccctatt
 catcaaaggcgaggcctactcgctcaaacacctcctcgacaatgatcccttcaccccaaa
 attcgaaaatggaagcatcctccaaggctttctcaacatcacggcataccaccgatggca
 gtccccagtgaacggcacaatcgtaaagatagtcaacgttcctgggacgtacttcgccca
-agcaccc-----------------------------------------------------
+agcacccc----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_silvatica_VPI-F-0003693.scaffolds|PsiD status=OK;introns=1;nt_len=879.0
+--tataa
+>Psilocybe_silvatica_VPI-F-0003693.scaffolds|PsiD status=OK;introns=0;nt_len=885.0
 ------tcaagaaccg----------------------ccaaaactctgattccatccgc
 cgacgcctttcgaaaactcggttggctccctgccaacgatgaggtctataacaagtttat
 ggcggatttgaccgaccacacatgcaacgagaaatactccagtcaggtcacacttctgca
@@ -926,15 +878,15 @@ agacagggataccgaccgccccgtagttggtggaatcaataacatcaatctcattggagc
 cgcctgtgaatctgtgtcgtataacgtctcggacgacgtccaatcctttgacaccctatt
 catcaagggcgaggcttattcgctcaaacatctcctcaatgacgacccctttacgccaca
 attcgaacacgggagtattgttcagggattcctcaacatcaccgcgtaccaccgctggca
-ctccccc-----------------------------------------------------
+ctcccccctata------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_singeri_ISOTYPE_NY-761622.scaffolds|PsiD status=OK;introns=1;nt_len=1290.0
+------a
+>Psilocybe_singeri_ISOTYPE_NY-761622.scaffolds|PsiD status=OK;introns=0;nt_len=1296.0
 ------tcaagcgcct----------------------tcaggactctgcgtccatccgc
 cgaggcctttagaaaactcggctggctaccgacagaggatgaggtctacaacgaatttat
 ggcggatctgaccacacggacttgcaacgagaaatactcaactcatattacactcctcca
@@ -957,8 +909,8 @@ taacaaagaaattggcctgattttcgtggtcttcattggcatgactgaggtttctacgtg
 cgaagcgacggtatgcgaaggccagcatgtcgagcgcggggatgatttgggaatgttcca
 tttcggcggctcgtctttcgctattggcttccagaagggctcgaacatcgtgatcctaga
 gaaataccgaacaaagggaacagtcatcaaggtgaacgcgttgattgggtcggtacag--
--
->Psilocybe_stuntzii_WTU-F-011520.scaffolds|PsiD status=OK;introns=1;nt_len=1290.0
+-ctataa
+>Psilocybe_stuntzii_WTU-F-011520.scaffolds|PsiD status=OK;introns=0;nt_len=1296.0
 ---------agcagca----------------------tcacgacccttcgtccctccgt
 ggagtcctttcgaaaacttggctggctcgctgccgaagacgacgtttattcagagttcat
 atccgacttgaccagtcgcacctgcaacaaagaatacaccagccgggtcgaacttttgaa
@@ -981,8 +933,8 @@ caacaaagacatcggtctcatcttcgtcgttttcattggcatgacggaagtctcaacatg
 cgaggctacggtttccgaaggccaacatgtcgagcgcggtgatgatctggggatgttcca
 ctttggtggctcatcctttgcgatcggcttccaaaggaacaccaagatcgagatccgtga
 aaagttcagacaaaaaggaacagtcatcaaggtgaacgagatgatcgccactgtaaatgc
-c
->Psilocybe_subcubensis_SFSU-29974.scaffolds|PsiD status=OK;introns=2;nt_len=1317.0
+cctataa
+>Psilocybe_subcubensis_SFSU-29974.scaffolds|PsiD status=OK;introns=0;nt_len=1323.0
 ----atgcaggtgatacccgcgtgcaactcggcagcaataagatcactatgtcctactcc
 cgagtcttttagaaacatgggatggctctctgtcagcgatgcggtctacagcgagttcat
 aggagagttggctacccgcgcttccaatcgaaattactccaacgagttcggcctcatgca
@@ -1005,8 +957,8 @@ caacaaggaaattggcctcattttccttgtgttcatcggcatgaccgaaatctcgacatg
 tgaagccacggtgtccgaaggtcaacacgtcaatcgtggcgatgacttgggaatgttcca
 tttcggtggttcttcgttcgcgcttggtctgaggaaggattgcagggcagagatcgttga
 aaagttcaccgaacccggaacagtgatcagaatcaacgaagtcgtcgctgctctaaaggc
-t
->Psilocybe_subfimetaria_SFSU-F-029945.scaffolds|PsiD status=OK;introns=0;nt_len=1026.0
+tctataa
+>Psilocybe_subfimetaria_SFSU-F-029945.scaffolds|PsiD status=OK;introns=0;nt_len=1032.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1029,8 +981,8 @@ caacaaagacatcggcctcatcttcgtcgttttcattggcatgacggaggtgtcgacgtg
 cgaggctacggtctccgaaggccagcacgtcgagcgcggcgatgacctggggatgttcca
 ctttggcggctcatcctttgcgatcggctttcagaggaacagcaagatcgagatctgtga
 aaagttcagacaaaaagggacagtcatcaaggtgaacgagatgatcgccattgtgaaggc
-c
->Psilocybe_subhoogshagenii_NY-915004.scaffolds|PsiD status=OK;introns=0;nt_len=609.0
+cctataa
+>Psilocybe_subhoogshagenii_NY-915004.scaffolds|PsiD status=OK;introns=0;nt_len=615.0
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1053,8 +1005,8 @@ caataaagatattggtctcattttcctggtcttcatcggcatgacagaagtgtcgacttg
 tgaagctacagtctgcgaaggccaatacgttaaccgcggggatgatcttggaatgttcca
 ttttggcggctcgtcctttgccattggtttccagcgcgattcgaatatcgagatagtcag
 gaaatatcagtcaaaggggacggtcatcagggttaacgatttgattggaacagtaaag--
--
->Psilocybe_subyungensis_ISOTYPE_NY-1197500.scaffolds|PsiD status=OK;introns=1;nt_len=927.0
+-ctataa
+>Psilocybe_subyungensis_ISOTYPE_NY-1197500.scaffolds|PsiD status=OK;introns=0;nt_len=933.0
 ---------agtgcct----------------------tcaagactctgcgtccatccgc
 ggaggcctttagaaagctcggctggctaccgacagacgatgaggtctacaacgaatttat
 ggcggatctgaccatgcgaacttgcaacgagaaatactcaagttatatcacactcctcca
@@ -1070,15 +1022,15 @@ ggatagagacgtcgaccgtcccgttgtcggtgggatcagcaacaacaatctcataggagc
 tccttgcgagtcagtgtcgtacaacgtgtcggacgacgtccaatccctagacaccctgtt
 catcaaaggcgaagcctattcgctgagacacctgctcaataacgaccctttcacgtcgaa
 gtttgagcatggaagcatcctgcagggctttctcaacatcaccgcctatcaccggtggca
-gtcccctgtgaatggcaccgtcatcaaaatcgtcaatgttccagggacttacttcgcc--
+gtcccctgtgaatggcaccgtcatcaaaatcgtcaatgttccagggacttacttcgccct
+a-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
-------------------------------------------------------------
--
->Psilocybe_tampanensis_UBC-F10177.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+----taa
+>Psilocybe_tampanensis_UBC-F10177.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agcacag----------------------tcaagacactgcgtccgtctgc
 ggatgccttcagaaaactaggctggttacccaccgacgacaaggtctataacgaattcat
 tacggacctaaccaagcggacatgcaacgaaacatattcgggccaagtcacactactgca
@@ -1101,8 +1053,8 @@ caataaaaacatcggcctcattttcgttgtcttcatcggcatgacggaagtatcgacgtg
 tgaggcgaccgtgtgcgaagggcaaagcgtaaagcgcggagatgatttgggaatgttcca
 ttttggcgggtcttccttcgcgattggattccagcgggacgcaaacatcgacattgtaga
 gaaatatcggacgaaaggcacggtcatcagagtgaacgcgttgattgggtcggtgaag--
--
->Psilocybe_weilii_ISOTYPE_WTU-F-063525.scaffolds|PsiD status=OK;introns=2;nt_len=1296.0
+-ctataa
+>Psilocybe_weilii_ISOTYPE_WTU-F-063525.scaffolds|PsiD status=OK;introns=0;nt_len=1302.0
 tgtgaattaagcgcct----------------------tcaagactttgcgtccatccgc
 ggacgccttccgagcactcggttggttgcccaccgacgacaaaggcttcaacgagttcat
 tacggatcttaccaagcggacatgtaacgaagactatccaactcaagtcacactcctgca
@@ -1125,8 +1077,8 @@ caataaagacatcggcctcattttcgtcgtcttcattggtatgacggaagtctcgacgtg
 tgaggcgacggtgtgcgaaggtcagcacgtccagcggggagatgatcttggaatgttcca
 tttcggcggttcatctttcgcgattggcttccagcgggattcaacaatcgagatcgccga
 caagtatcgaacaaagggcacggtcatcagggtgaacgcgttgattgggtcagtgaag--
--
->Psilocybe_wrightii_ISOTYPE_NY-761629.scaffolds|PsiD status=OK;introns=1;nt_len=1296.0
+-ctataa
+>Psilocybe_wrightii_ISOTYPE_NY-761629.scaffolds|PsiD status=OK;introns=0;nt_len=1302.0
 tgtgaattaagcgcct----------------------tcaagactttgcgtccatccgc
 ggacgccttccgagcactcggttggttgcccaccgacgacaaaggcttcaacgagttcat
 tacggatcttaccaagcggacatgtaacgaaaactatccaactcaagtcacactcctgca
@@ -1149,32 +1101,32 @@ caataaagacatcggcctcattttcgtcgtcttcattggtatgacggaagtctcgacgtg
 tgaggcgacggtgtgcgaaggtcagcacgtccagcggggagatgatcttggaatgttcca
 ttttggcggttcatctttcgcgattggcttccagcgggattcaacaatcgagatcgccga
 gaaatatcgaacaaagggcacggtcatcagggtgaacgcgttgattgggtcagtgaag--
--
->Psilocybe_xalapensis_ISOTYPE_NY-761630.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+-ctataa
+>Psilocybe_xalapensis_ISOTYPE_NY-761630.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ------tcaagcgcct----------------------tcaggactctgcgtccatccgc
-cgaggcctttagaaaactcggctggctaccgacagaggatggggtctacaccgaatttat
-ggcggatctgaccacacggacatgcaacgagagatacgcaagccgtgttacactcctcca
-gcccctccaagattttaagaactttattgaaagcaaccccgcggtacgccaagagttcat
-tacgatgttcgaaggaatcgaagaatctcccaggaattatcatgaactttgcaacatgtt
-caacgaaatttttcataaagcgccgtgctatggcgatcttgggcctcctgtttacatgat
+cgaggcctttagaaagctcggctggctaccgacagaggatgaggtctacaccgaatttat
+ggcggatctgaccacacggacctgcaacgagaaatactcaagtcgttttaccctcctcca
+gcccctccaagatttcaagaactttattgaaagcaatcccgcggtacgccaggagttcat
+tacgatgttcgaaggaatcgaagaatctcccaggaattatcatgaactttgtaacatgtt
+caatgaaatctttcataaagcgccgtgctatggcgaccttgggcctcctgtttacatgat
 catggctaagatcatgaacaccaaagcaggcttttcagcgtttaccagggacagcttaaa
-tttccacttcaaaaggctcttcgacacatggggaatgttcctttcctcaaaagcctcctg
-cgatgtgctcgtctcgggaaggttcagcgacaggcatcacggttggttcagcgagcctgc
-aagggctggtatgatggcccactacgacgggcgtactttcgaggaagtgttcacttgcga
-cgaacacgctccataccatggtttctcttcctatgaccatttcttcaaccgcacgttcag
-agatagggacatcgaccgtcccgtcgttggtgggatctgcaacaacaatctcattggagc
-cccttgcgagtcagtgtcgtacaacgtatcggacgacgtccaatccctagacaccctttt
+tttccacttcaaaaggctcttcgacacatgggggatgttcctttcctcaaaagcctcctg
+cgatgtgctcgtctcgggaaggttcagcaacaggcatcacggctggttcagcgagcctgc
+aagggctggtatgatggcccactacgacgggcgtactttcgagcaagtgttcacttgcga
+cgaacacgctccataccacggtttctcgtcctatgaccatttcttcaaccgcacgttcag
+agatagggacgtcgaccgtcccgtcgttggtgggatctgcaacaacaatctcataggagc
+cccttgcgagtcagtgtcgtacaacgtatcggacgacgtccaatccctagacaccctctt
 tatcaaaggcgagaggtattcgctgagacacctgctcaacaacgacccattcacgtcgaa
 gtttgagggtggaagcatcctgcaggggttcctcaacatcaccgcctatcaccgttggca
-gtctcctgtgaatgggacggtcgtcaaaatcgtcaacgttccagggacttacttcgccca
-agctccgtacaccattggcgatccaatcccggataacgactacgatccgcccccgtatct
-tcgatccctcgtctatttctcaaatatcgcaacaaggcaaatcatgttcatcgaggcaga
+gtctcctgtgaatgggacggtcgtcaaaatcgtcaatgttccagggacttacttcgccca
+agccccgtacaccattggcgatccaatcccggataacgactacgatccgcccccgtatct
+tcgatccctcgtgtatttctcaaatatcgcaacaaggcaaatcatgttcatcgaggcaga
 caacaaagacattggccttattttcgtggtcttcatcggtatgacggaggtatccacgtg
-cgaagcgacggtatgcgaaggccagcatgtcgagcgcggagatgatctggggatgtttca
+cgaagcgacggtgtgcgaaggccagcatgtcgagcgcggagatgatctggggatgtttca
 tttcggcggctcgtctttcgctattggtttccagaaggagtctaacgtcgcgatcctcga
-gaaataccgagcaaagggcaccgtcatcaaagtgaacgcgttgattgggtcggta-----
--
->Psilocybe_yungensis_SFSU-29944.scaffolds|PsiD status=OK;introns=1;nt_len=843.0
+gaaataccgaacaaagggcaccgtcatcaaagtgaacgcgttgattgggtcggta-----
+-ctataa
+>Psilocybe_yungensis_SFSU-29944.scaffolds|PsiD status=OK;introns=0;nt_len=849.0
 ------tcaagagtct----------------------tcaggactctgcgtccatccgc
 cgaggcctttagaaaactcggctggctgccgacagaggatgaggtctacaacgaatttat
 ggcggatctgaccacacgggcttgcaatgaaaaatactcaagtcataatacactcctcca
@@ -1189,7 +1141,7 @@ cgaacatgctccataccatggtttctcgtcctatgaccaatttttcaaccgcacgttcag
 agatagggacgtcgaccgtcccgttgtcggtgggatcaccaacaccaatctcattggagc
 tccttgcgagtcagtgtcatacaacgtgtcggacgacgtccaatccctagacaccctgtt
 cctcaaaggcgaagcctattcgctaagacacctgctcaataacgaccctttcacgtcgaa
-gtttgagcatggaagcatcctgcaggggttt-----------------------------
+gtttgagcatggaagcatcctgcaggggtttct---------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1197,8 +1149,8 @@ gtttgagcatggaagcatcctgcaggggttt-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
--
->Psilocybe_zapotecorum_FFCL689.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+---ataa
+>Psilocybe_zapotecorum_FFCL689.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agtgcct----------------------tcaagactctgcgtccatccgc
 agatgccttcagaaaacttggttggctgcccaccgatgatgaggtctacaacgaattcat
 gacggatctaaccagacgagtatgcaatgaaaaatacgccagtcaagtcatactcctaca
@@ -1221,8 +1173,8 @@ caataaggatatcggcctcatttttgtggtattcatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgagggccaacacgtcgagcgcggagatgatctggggatgttcca
 tttcggcggttcgtccttcgcgattgggttccagcgggactcgaacatcgagattgtgga
 gaaataccgaacgaaggggacggtaatcaaagtcaacgcattggttgggtcggtgaag--
--
->Psilocybe_zapotecorum_GAM00011076.scaffolds|PsiD status=OK;introns=1;nt_len=1287.0
+-ctataa
+>Psilocybe_zapotecorum_GAM00011076.scaffolds|PsiD status=OK;introns=0;nt_len=1293.0
 ---------agtgcct----------------------tcaagactctgcgtccatccgc
 agatgccttcagaaaacttggttggctgcccaccgatgatgaggtctacaacgaattcat
 gacggatctaaccagacgagtatgcaatgaaaaatacgccagtcaagtcatactcctaca
@@ -1245,4 +1197,4 @@ caataaggatatcggcctcatttttgtggtattcatcggcatgacggaagtatcgacctg
 cgaggcaacggtgtgcgagggccaacacgtcgagcgcggagatgatctgggaatgttcca
 tttcggcggttcgtccttcgcgattgggttccagcgggactcgaacatcgagattgtgga
 gaaataccgaacgaaggggacggtaatcaaagtcaacgcattggttgggtcggtgaag--
--
+-ctataa
