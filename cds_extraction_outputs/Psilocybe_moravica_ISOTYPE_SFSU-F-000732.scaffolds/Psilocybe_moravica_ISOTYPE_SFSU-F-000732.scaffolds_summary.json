@@ -1,0 +1,41 @@
+{
+  "species": "Psilocybe_moravica_ISOTYPE_SFSU-F-000732.scaffolds",
+  "results": [
+    {
+      "enzyme": "PsiD",
+      "status": "OK",
+      "score": 1849.0,
+      "nt_len": 1320,
+      "blocks": 0,
+      "strand": "-",
+      "seqid": "NODE_3531_length_5039_cov_19.140269"
+    },
+    {
+      "enzyme": "PsiK",
+      "status": "OK",
+      "score": 905.0,
+      "nt_len": 702,
+      "blocks": 0,
+      "strand": "-",
+      "seqid": "NODE_18011_length_756_cov_24.111288"
+    },
+    {
+      "enzyme": "PsiM",
+      "status": "OK",
+      "score": 490.0,
+      "nt_len": 390,
+      "blocks": 0,
+      "strand": "-",
+      "seqid": "NODE_23633_length_595_cov_42.944444"
+    },
+    {
+      "enzyme": "PsiH",
+      "status": "OK",
+      "score": 1516.0,
+      "nt_len": 1209,
+      "blocks": 0,
+      "strand": "+",
+      "seqid": "NODE_1963_length_8326_cov_25.036590"
+    }
+  ]
+}
