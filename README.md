@@ -131,19 +131,49 @@ These 20 species lack the psilocybin biosynthesis gene cluster entirely:
 │   ├── PsiM_sequences.faa    # 45 sequences
 │   └── PsiH_sequences.faa    # 51 sequences
 │
-└── mafft_alignments/         # Multiple sequence alignments
-    ├── PsiD_mafft_aligned.faa
-    ├── PsiH_mafft_aligned.faa
-    ├── PsiK_mafft_aligned.faa
-    ├── PsiM_mafft_aligned.faa
-    ├── alignment_metadata.tsv
-    ├── alignment_viewer.html  # Interactive Plotly viewer
-    └── nucleotide_alignments/
-        ├── PsiD_cds_aligned.fna
-        ├── PsiH_cds_aligned.fna
-        ├── PsiK_cds_aligned.fna
-        └── PsiM_cds_aligned.fna
+├── mafft_alignments/         # Multiple sequence alignments
+│   ├── PsiD_mafft_aligned.faa
+│   ├── PsiH_mafft_aligned.faa
+│   ├── PsiK_mafft_aligned.faa
+│   ├── PsiM_mafft_aligned.faa
+│   ├── alignment_metadata.tsv
+│   ├── alignment_viewer.html  # Interactive Plotly viewer
+│   └── nucleotide_alignments/
+│       ├── PsiD_cds_aligned.fna
+│       ├── PsiH_cds_aligned.fna
+│       ├── PsiK_cds_aligned.fna
+│       └── PsiM_cds_aligned.fna
+│
+└── protein_structure_prediction/
+    └── 01_ColabFold_Psilocybin.ipynb  # ColabFold structure prediction
 ```
+
+## Protein Structure Prediction
+
+The `protein_structure_prediction/01_ColabFold_Psilocybin.ipynb` notebook predicts 3D protein structures for all extracted psilocybin enzymes using **ColabFold** (AlphaFold2 with MMseqs2). It is designed to run on **Google Colab** with a GPU runtime (A100 or T4).
+
+### What it does
+
+1. **Environment setup** - Installs ColabFold, JAX with CUDA support, and HHsuite for template search
+2. **Input** - Reads the combined FASTA files from `alphafold_input/` (PsiD, PsiK, PsiM, PsiH) plus ancestral reconstructions (`ASR1_PsiD`)
+3. **Structure prediction** - Runs ColabFold batch predictions with configurable parameters:
+   - 5 models per sequence (AlphaFold2 model ensemble)
+   - 6 recycles for improved accuracy
+   - Template-based modeling enabled
+4. **Quality assessment** - Extracts pLDDT and pTM confidence scores from prediction outputs
+5. **Results** - Saves PDB structures and quality summary CSV to Google Drive
+
+### Current results
+
+| Enzyme | Sequences Predicted | PDB Files |
+|--------|---------------------|-----------|
+| PsiD | 53 | 265 |
+| PsiK | 24 | 120 |
+| PsiM | 0 | 0 |
+| PsiH | 0 | 0 |
+| ASR1_PsiD | 66 | 330 |
+
+PsiM and PsiH predictions are pending.
 
 ## Output Files
 
